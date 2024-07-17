@@ -6,7 +6,7 @@ translate french s00_last_time_on_jpde_265b952a:
     # voice "audio/vo/narrator/001.ogg"
     # na "Vale City, Beacon Academy.{w=0.5} 21 Prezza, 489."
     voice "audio/vo/narrator/001.ogg"
-    na ""
+    na "Cité de Vale, Académie de Beacon.{w=0.5} 21 Prezza, 489"
 
 # game/script/story/st_00.rpy:25
 translate french s00_last_time_on_jpde_903a36ce:
@@ -14,7 +14,7 @@ translate french s00_last_time_on_jpde_903a36ce:
     # voice "audio/vo/narrator/002.ogg"
     # na "The events from that day have since come to be known as{b} the Fall of Beacon{/b}."
     voice "audio/vo/narrator/002.ogg"
-    na ""
+    na "Les évenements de ce jour sont désormais connus comme{b} la Chute de Beacon{/b}."
 
 # game/script/story/st_00.rpy:27
 translate french s00_last_time_on_jpde_0469620d:
@@ -22,7 +22,7 @@ translate french s00_last_time_on_jpde_0469620d:
     # voice "audio/vo/narrator/003.ogg"
     # na "A darkness revealed itself to the world of Remnant.{w=0.3} In its wake, it aimed to split her.{w=0.3} Break the spirit of her people.{w=0.3} And erase the city of Vale in its entirety."
     voice "audio/vo/narrator/003.ogg"
-    na ""
+    na "Une obscurité s'est révélée au monde de Remnant.{w=0.3} Dans son éveil, elle a cherché à le diviser.{w=0.3} Briser l'esprit de son peuple.[w=0.3} Et effacer la cité de Vale dans son intégralité."
 
 # game/script/story/st_00.rpy:33
 translate french s00_last_time_on_jpde_b00b5a18:
@@ -30,7 +30,7 @@ translate french s00_last_time_on_jpde_b00b5a18:
     # voice "audio/vo/narrator/004.ogg"
     # na "The world broke apart, trust between nations forever damaged.{w=0.3} Many lives were lost.{w=0.3} But the spirit endured."
     voice "audio/vo/narrator/004.ogg"
-    na ""
+    na "Le monde a volé en éclat, la confiance entre les nations sont abîmées à jamais.{w=0.3} De nombreuses vies furent perdues.{w=0.3} Mais l'esprit, lui, a enduré."
 
 # game/script/story/st_00.rpy:35
 translate french s00_last_time_on_jpde_a3d5c345:
@@ -38,7 +38,7 @@ translate french s00_last_time_on_jpde_a3d5c345:
     # voice "audio/vo/narrator/005.ogg"
     # na "It endured and burned bright like roaring flame.{w=0.3} Even as evil laid his clawed hand on Remnant, her defenders left it singed and crushed."
     voice "audio/vo/narrator/005.ogg"
-    na ""
+    na "Il a résisté et a brûlé tel une flamme rugissante. Même si le mal a levé ses doigts griffus sur Remnant, ses défenseurs l'ont laissé roussi et écrasé"
 
 # game/script/story/st_00.rpy:37
 translate french s00_last_time_on_jpde_7eee332d:
@@ -46,7 +46,7 @@ translate french s00_last_time_on_jpde_7eee332d:
     # voice "audio/vo/narrator/006.ogg"
     # na "Through actions and defiance, strengthened by unique bonds between individuals of all backgrounds and walks of life.{w=0.3} Finding themselves unwillingly at the center of it all and yet, never giving up the fight."
     voice "audio/vo/narrator/006.ogg"
-    na ""
+    na "À travers les actions et la résistance, enhardis par les liens uniques entre individus de toute origine et de tout horizons.{w=0.3} Se trouvant eux-mêmes au centre de tout cela et pourtant, n'ayant jamais abandonné le combat."
 
 # game/script/story/st_00.rpy:46
 translate french s00_last_time_on_jpde_347597fc:
@@ -54,7 +54,7 @@ translate french s00_last_time_on_jpde_347597fc:
     # voice "audio/vo/narrator/007.ogg"
     # na "Three years have passed since that fateful day.{w=0.3} Remnant, and her people, have been forever changed..."
     voice "audio/vo/narrator/007.ogg"
-    na ""
+    na "Trois ans ont passés depuis ce jour fatidique.{w=0.3} Remnant, et son peuple, ont été changé pour toujours..."
 
 # game/script/story/st_00.rpy:51
 translate french s00_last_time_on_jpde_43550bbf:
@@ -62,7 +62,7 @@ translate french s00_last_time_on_jpde_43550bbf:
     # voice "audio/vo/narrator/008.ogg"
     # na "And now darkness encroaches again."
     voice "audio/vo/narrator/008.ogg"
-    na ""
+    na "Et maintenant l'obscurité gagne du terrain à nouveau."
 
 # game/script/story/st_00.rpy:61
 translate french s00_birth_of_the_red_fang_3ef06803:
@@ -70,7 +70,7 @@ translate french s00_birth_of_the_red_fang_3ef06803:
     # voice "audio/vo/narrator/009.ogg"
     # na "[dis_wday], [dis_day] [dis_month] 492.{w=0.3} Vacuo, border region with the Kingdom of Vale.{w=0.5} An ambitious man, set on a path of violence and retribution, arrives at an ancient fortress with an armed entourage."
     voice "audio/vo/narrator/009.ogg"
-    na ""
+    na "[dis_way], [dis_day] [dis_month] 492.{w=0.3} Vacuo, région frontalière avec le Royaume de Vale.{w=0.5} Un homme ambitieux, engagé sur le chemin de la violence et de la punition, arrive dans ancienne forteresse avec un entourage armé."
 
 # game/script/story/st_00.rpy:69
 translate french s00_birth_of_the_red_fang_002406c9:
@@ -78,19 +78,19 @@ translate french s00_birth_of_the_red_fang_002406c9:
     # voice "audio/vo/narrator/010.ogg"
     # na "He has come to remove an obstacle, one way or the other.{w=0.3} What hangs in the balance..."
     voice "audio/vo/narrator/010.ogg"
-    na ""
+    na "Il est venu se débarasser d'un obstacle, d'une manière ou d'une autre.{w=0.3} Ce qui est en jeu..."
 
 # game/script/story/st_00.rpy:71
 translate french s00_birth_of_the_red_fang_d8b3c072:
 
     # sk_x darko neutral "I guess congratulations are in order, {b}Adam{/b}.{w=0.5} You've done it."
-    sk_x darko neutral ""
+    sk_x darko neutral "Je suppose que les félicitations sont de mise, {b}Adam{/b}.{0.5} Tu y es parvenu."
 
 # game/script/story/st_00.rpy:76
 translate french s00_birth_of_the_red_fang_2046b873:
 
     # adt nulla ".{w=0.3}.{w=0.3}."
-    adt nulla ""
+    adt nulla ".{w=0.3}.{w=0.3}."
 
 # game/script/story/st_00.rpy:77
 translate french s00_birth_of_the_red_fang_44b20e6b:
@@ -98,7 +98,7 @@ translate french s00_birth_of_the_red_fang_44b20e6b:
     # voice "audio/vo/narrator/011.ogg"
     # na "Is the leadership of the {b}White Fang{/b}, and the future of the fauni people."
     voice "audio/vo/narrator/011.ogg"
-    na ""
+    na "La dirigeante du {b}White Fang{/b}, et le futur du peuple faunus."
 
 # game/script/story/st_00.rpy:79
 translate french s00_birth_of_the_red_fang_248126c6:
