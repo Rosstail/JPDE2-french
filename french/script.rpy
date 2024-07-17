@@ -68,7 +68,7 @@ translate french strings:
 
     # game/script.rpy:62
     old "Glynda Goodwitch the I"
-    new "Glynda Goodwitch I" # ou Premier ou La Première
+    new "Glynda Goodwitch Ière"
 
     # game/script.rpy:67
     old "Violet Peach"
@@ -128,7 +128,7 @@ translate french strings:
 
     # game/script.rpy:141
     old "Royal Marine - Mint"
-    new "Marine Royale - Mint" # Keep Mint or Menthe ?
+    new "Marine Royale - Mint"
 
     # game/script.rpy:142
     old "Royal Marine - A"
