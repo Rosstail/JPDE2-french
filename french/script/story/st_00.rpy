@@ -6,7 +6,7 @@ translate french s00_last_time_on_jpde_265b952a:
     # voice "audio/vo/narrator/001.ogg"
     # na "Vale City, Beacon Academy.{w=0.5} 21 Prezza, 489."
     voice "audio/vo/narrator/001.ogg"
-    na "Cité de Vale, Académie de Beacon.{w=0.5} 21 Prezza, 489"
+    na "Cité de Vale, Académie de Beacon.{w=0.5} 21 Prezza, 489."
 
 # game/script/story/st_00.rpy:25
 translate french s00_last_time_on_jpde_903a36ce:
@@ -38,7 +38,7 @@ translate french s00_last_time_on_jpde_a3d5c345:
     # voice "audio/vo/narrator/005.ogg"
     # na "It endured and burned bright like roaring flame.{w=0.3} Even as evil laid his clawed hand on Remnant, her defenders left it singed and crushed."
     voice "audio/vo/narrator/005.ogg"
-    na "Il a résisté et a brûlé tel une flamme rugissante. Même lorsque le mal a levé ses doigts griffus sur Remnant, ses défenseurs l'ont laissé roussi et écrasé"
+    na "Il a résisté et a brûlé tel une flamme rugissante.{w=0.3} Même lorsque le mal a levé ses doigts griffus sur Remnant, ses défenseurs l'ont laissé roussi et écrasé."
 
 # game/script/story/st_00.rpy:37
 translate french s00_last_time_on_jpde_7eee332d:
@@ -98,13 +98,13 @@ translate french s00_birth_of_the_red_fang_44b20e6b:
     # voice "audio/vo/narrator/011.ogg"
     # na "Is the leadership of the {b}White Fang{/b}, and the future of the fauni people."
     voice "audio/vo/narrator/011.ogg"
-    na "La dirigeante du {b}White Fang{/b}, et le futur du peuple faunus."
+    na "... Est le commandemant du {b}White Fang{/b}, et le futur du peuple faunus."
 
 # game/script/story/st_00.rpy:79
 translate french s00_birth_of_the_red_fang_248126c6:
 
     # sk_x darko frown "This morning, the {b}High Commander of Atlas{/b} has signed into law the special reform.{w=0.3} Come new year's, fauni won't be allowed to own businesses in Atlas territory any longer."
-    sk_x darko frown "Ce matin, le {b}Haut Commandant de Atlas{/b} a promulgué la réforme spéciale.{w=0.3} À compter de l'année prochaine, les fauni ne seront plus autorisés de posséder des commerces sur le territoire d'Atlas."
+    sk_x darko frown "Ce matin, le {b}Haut Commandant de Atlas{/b} a promulgué la réforme spéciale.{w=0.3} À compter de l'année prochaine, les fauni ne seront plus autorisés à posséder des commerces sur le territoire d'Atlas."
 
 # game/script/story/st_00.rpy:80
 translate french s00_birth_of_the_red_fang_30865336:
@@ -116,7 +116,7 @@ translate french s00_birth_of_the_red_fang_30865336:
 translate french s00_birth_of_the_red_fang_48adffca:
 
     # sk_xc sun frown "Fauni are once again second class citizens in Atlas.{w=0.3} Decades of progress, erased in three years."
-    sk_xc sun frown "Les fauni sont de nouveau une classe de citoyens de seconde zone en Atlas.{w=0.3} Des décénnies de progrès, effacées en trois ans."
+    sk_xc sun frown "Les fauni sont de nouveau une classe de citoyens de seconde zone à Atlas.{w=0.3} Des décénnies de progrès, effacées en trois ans."
 
 # game/script/story/st_00.rpy:88
 translate french s00_birth_of_the_red_fang_1d22a4b8:
@@ -134,13 +134,13 @@ translate french s00_birth_of_the_red_fang_34ea47ab:
 translate french s00_birth_of_the_red_fang_c206716e:
 
     # sk_xc sun angry "Oh, this actually has a new twist on it.{w=0.3} Fear for sure but ignorance?{w=0.3} No, Adam, they're clear minded and fully aware.{w=0.3} You made sure of it."
-    sk_xc sun angry "Oh, elle a prit une nouvelle tournure cette fois.{w=0.3} Sûrement par peur mais par ignorance ?{w=0.3} Non, Adam, ils sont clairement éclairés et conscients.{<=0.3} Tu t'en es assuré."
+    sk_xc sun angry "Oh, elle a prit une nouvelle tournure cette fois.{w=0.3} Sûrement par peur mais par ignorance ?{w=0.3} Non, Adam, ils sont clairement éclairés et conscients.{w=0.3} Tu t'en es assuré."
 
 # game/script/story/st_00.rpy:96
 translate french s00_birth_of_the_red_fang_33ff106f:
 
     # sk_xc sun frown "You made sure they could trace back every single act of indiscriminate violence to the White Fang.{w=0.3} To stir and radicalize, make humans think any faunus is a Fang supporter."
-    sk_xc sun frown "Tu t'es assuré qu'ils puissent retracer chacun des actes de violence sans discernement du White Fang.{w=0.3} Pour atiser et radicaliser, faire penser aux humains que tout faunus est un partisan du Fang."
+    sk_xc sun frown "Tu t'es assuré qu'ils puissent retracer chacun des actes de violence sans discernement du White Fang.{w=0.3} Pour atiser et radicaliser, faire penser aux humains que tout faunus est un partisan au Fang."
 
 # game/script/story/st_00.rpy:97
 translate french s00_birth_of_the_red_fang_76edb10f:
@@ -152,13 +152,13 @@ translate french s00_birth_of_the_red_fang_76edb10f:
 translate french s00_birth_of_the_red_fang_598a2d86:
 
     # sk_xc sun angry "The Fang does {b}not{/b} speak for all fauni, Adam!{w=0.3} It was never meant to become representative of our way of life or what we, as a people, stand for!"
-    sk_xc sun angry "Le Fang {b}ne{/b} parle {b}pas{/b} au nom de tous les fauni, Adam !{0.3} Il n'a jamais été censé devenir représentatif de notre mode de vie ou que nous, en tant que peuple, réprésentons !"
+    sk_xc sun angry "Le Fang {b}ne{/b} parle {b}pas{/b} au nom de tous les fauni, Adam !{0.3} Il n'a jamais été question de devenir représentatif de notre mode de vie ou ce que nous, en tant que peuple, réprésentons !"
 
 # game/script/story/st_00.rpy:100
 translate french s00_birth_of_the_red_fang_33cf14cf:
 
     # adt sun amused "Such a small vision, {b}Sienna{/b}.{w=0.3} It just needed to stand for something better than picketing, or pitting humans against their own greed."
-    adt sun amused "Une vision si petite, {b}Sienna{/b}.{w=0.3} Il fallait simplement qu'il défende quelque chose de meilleur que le piquetage, ou opposer les humains face à leur propre cupidité."
+    adt sun amused "Une vision si étroite, {b}Sienna{/b}.{w=0.3} Il fallait simplement qu'il défende quelque chose de meilleur que le piquet, ou de confronter les humains face à leur propre cupidité."
 
 # game/script/story/st_00.rpy:104
 translate french s00_birth_of_the_red_fang_20902a39:
@@ -176,7 +176,7 @@ translate french s00_birth_of_the_red_fang_d3ca0875:
 translate french s00_birth_of_the_red_fang_fb51f3e1:
 
     # sk sun tsk "You mean genocide!{w=0.3} Do you seriously intend to drag us into open conflict with humans?!"
-    sk sun tsk "Tu veux dire un génocide !{w=0.3} As-tu sérieusement l'intension de nous traîner vers un conflit ouvert avec les humains ?!"
+    sk sun tsk "Tu veux dire un génocide !{w=0.3} As-tu sérieusement l'intention de nous traîner vers un conflit ouvert avec les humains ?!"
 
 # game/script/story/st_00.rpy:110
 translate french s00_birth_of_the_red_fang_3f22406f:
@@ -188,19 +188,19 @@ translate french s00_birth_of_the_red_fang_3f22406f:
 translate french s00_birth_of_the_red_fang_8fce9e0d:
 
     # sk sun angry "This isn't a war we can win, Adam!"
-    sk sun angry "Ce n'est pas une guerre que nous peut gagner, Adam !"
+    sk sun angry "Ce n'est pas une guerre que nous pouvons gagner, Adam !"
 
 # game/script/story/st_00.rpy:116
 translate french s00_birth_of_the_red_fang_4339f9ba:
 
     # adt sun frown "Just like {b}Vale{/b} was untouchable.{w=0.3} We all know how that ended...{w=0.5} You are meek and short-sighted, Sienna."
-    adt sun frown "Tout comme {b}Vale{/b} était intouchable.{w=0.3}. Nous savons tous comment cela s'est terminé...{w=0.3} Tu es douce et tu manques de perspicacité, Sienna."
+    adt sun frown "Tout comme {b}Vale{/b} était intouchable.{w=0.3}. Nous savons tous comment cela s'est terminé...{w=0.5} Tu es trop docile et tu manques de vision, Sienna."
 
 # game/script/story/st_00.rpy:117
 translate french s00_birth_of_the_red_fang_1371ab12:
 
     # adt sun neutral "You had the right idea, when you took the Fang over from the Belladonnas.{w=0.3} You just lack the resolution and vision to go further."
-    adt sun neutral "Tu avais les bonnes idées, lorsque tu as pris le Fang aux Belladonas.{w=0.3} Il te manque juste la conviction et la vidion d'aller plus loin."
+    adt sun neutral "Tu avais de bonnes idées, lorsque tu as pris le Fang aux Belladonna.{w=0.3} Il te manque juste la conviction et la vision d'aller plus loin."
 
 # game/script/story/st_00.rpy:118
 translate french s00_birth_of_the_red_fang_bc140428:
