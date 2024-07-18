@@ -32,7 +32,7 @@ translate french strings:
 
     # game/script.rpy:24
     old "Team JPDE"
-    new "Team JPDE"
+    new "Équipe JPDE"
 
     # game/script.rpy:26
     old "Penny Polendina"
