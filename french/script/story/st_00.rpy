@@ -206,103 +206,103 @@ translate french s00_birth_of_the_red_fang_1371ab12:
 translate french s00_birth_of_the_red_fang_bc140428:
 
     # sk sun angry "And you would?{w=0.3} Pray tell, then, how are we going to win a race war outnumbered five to one?!"
-    sk sun angry ""
+    sk sun angry "Et le ferais-tu ?{w=0.3} Je t'en prie, dis-le, alors, comment allons nous gagner une guerre raciale à cinq contre un ?!"
 
 # game/script/story/st_00.rpy:119
 translate french s00_birth_of_the_red_fang_497a8abd:
 
     # adt sun neutral "I have plans.{w=0.5} Which will only be shared with those following in my vision.{w=0.3} The Fang's vision."
-    adt sun neutral ""
+    adt sun neutral "J'ai des plans.{w=0.3} Qui seront uniquement partagé avec ceux qui suivent ma vision.{w=0.3} Celle du Fang."
 
 # game/script/story/st_00.rpy:124
 translate french s00_birth_of_the_red_fang_f569a6bf:
 
     # sk sun neutral "And what of those who won't?{w=0.3} What of those who'll defend the place they found for themselves in the world?"
-    sk sun neutral ""
+    sk sun neutral "Et qu'en est-il pour ceux qui ne le feront pas ?{w=0.3} Quid de ceux qui vont défendre la place qu'ils se sont trouvé dans le monde ?"
 
 # game/script/story/st_00.rpy:126
 translate french s00_birth_of_the_red_fang_57d2a7e9:
 
     # adt sun frown "A place built on lies and handouts…{w=0.5} Worthless."
-    adt sun frown ""
+    adt sun frown "Une place construite sur des mensongs et la charité...{w=0.5} Sans aucune valeur."
 
 # game/script/story/st_00.rpy:128
 translate french s00_birth_of_the_red_fang_6d6a343f:
 
     # sk sun neutral "With you or against you, then."
-    sk sun neutral ""
+    sk sun neutral "C'est donc avec ou contre toi."
 
 # game/script/story/st_00.rpy:130
 translate french s00_birth_of_the_red_fang_a8d6ff8c:
 
     # adt sun frown "With the Fang or against the Fang.{w=0.3} {i}My brother now choose, to walk the path of rebirth, or to us be lost…{/i}{w=0.5} It is our people's radiant future they'd stand against."
-    adt sun frown ""
+    adt sun frown "Avec le Fang ou contre le Fang.{w=0.3} {i}Mon frère choisit maintenant, de marcher sur le chemin de la renaissance, ou pour nous d'être perdu...{/i}{w=0.5} C'est contre le futur radieux de notre peuple qu'ils se dresseront."
 
 # game/script/story/st_00.rpy:132
 translate french s00_birth_of_the_red_fang_012f9fd5:
 
     # sk sun frown "Radiant bloodshed and glorious war.{w=0.3} How many will die?"
-    sk sun frown ""
+    sk sun frown "Un radieux bain de sang et une Guerre florieuse.{w=0.3} Combien mourront ?"
 
 # game/script/story/st_00.rpy:133
 translate french s00_birth_of_the_red_fang_b8cac9c0:
 
     # adt sun neutral "Many...{w=0.5} But with the knowledge that they will pave the way for our people's golden age."
-    adt sun neutral ""
+    adt sun neutral "Beaucoup...{w=0.5} Mais avec l'assurance qu'ils vont paver le chemin vers l'âge d'or de notre peuple."
 
 # game/script/story/st_00.rpy:135
 translate french s00_birth_of_the_red_fang_d077abd8:
 
     # adt sun shout "A future where fauni won't ever be enslaved again!{w=0.3} A new world founded on harmonious coexistence, pruned of its original sin!{w=0.3} Cleansed of the rot which has held us down for ages, going as far as infecting even the best of us!"
-    adt sun shout ""
+    adt sun shout "Un futur où les fauni ne seront plus jamais esclavagisés !{w=0.3} Un monde nouveau fondé sur une coexistance harmonieuse, débarassée de son pêché orifinel !{w=0.3} Purifiée de cette pourriture qui nous retient depuis des lustres, allant jusqu'à infecter même les meilleurs d'entre nous !"
 
 # game/script/story/st_00.rpy:136
 translate french s00_birth_of_the_red_fang_47820952:
 
     # adt sun angry "The White-{w=0.15}no, the {b}Red Fang{/b} will wipe the slate clean...{w=0.5} And then, we will rebuild."
-    adt sun angry ""
+    adt sun angry "Le White-{w=0.15} non, le {b}Red Fang{/b} va effacer l'ardoise...{w=0.5} Et alors, nous reconstruirons."
 
 # game/script/story/st_00.rpy:137
 translate french s00_birth_of_the_red_fang_7752d420:
 
     # rf_1 sun "To victory, sir!"
-    rf_1 sun ""
+    rf_1 sun "Pour la victoire, monsieur !"
 
 # game/script/story/st_00.rpy:138
 translate french s00_birth_of_the_red_fang_60f8acde:
 
     # rf_2 sun "For the Fang!{w=0.3} And Fauni everywhere!"
-    rf_2 sun ""
+    rf_2 sun "Pour le Fang !{w=0.3} Et aux fauni partour !"
 
 # game/script/story/st_00.rpy:140
 translate french s00_birth_of_the_red_fang_81ed75f8:
 
     # rf_3 sun "Glory to the {b}Butcher of Beacon{/b}!"
-    rf_3 sun ""
+    rf_3 sun "Gloire au {b}Boucher de Beacon{/b} !"
 
 # game/script/story/st_00.rpy:145
 translate french s00_birth_of_the_red_fang_abc1b8a6:
 
     # sk sun frown ".{w=0.3}.{w=0.3}.{w=0.5}cleansed of...{w=0.5} The rot."
-    sk sun frown ""
+    sk sun frown ".{w=0.3}.{w=0.3}.{w=0.5}Purifié de...{w=0.5} Cette pourriture."
 
 # game/script/story/st_00.rpy:148
 translate french s00_birth_of_the_red_fang_e6836acc:
 
     # sk sun neutral "I've heard enough."
-    sk sun neutral ""
+    sk sun neutral "J'en ai assez entendu."
 
 # game/script/story/st_00.rpy:159
 translate french s00_birth_of_the_red_fang_e04e71dc:
 
     # adt_i sun neutral "(Three in front of us by the stairs, four behind us by the entrance...)"
-    adt_i sun neutral ""
+    adt_i sun neutral "(Trois devant nous près des escaliers, quatre derrière nous près de l'entrée...)"
 
 # game/script/story/st_00.rpy:160
 translate french s00_birth_of_the_red_fang_2eee9db3:
 
     # rf_2 sun "We're surrounded...?!"
-    rf_2 sun ""
+    rf_2 sun "Nous sommes cernés... ?!"
 
 # game/script/story/st_00.rpy:161
 translate french s00_birth_of_the_red_fang_cf6ec5f9:
