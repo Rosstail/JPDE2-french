@@ -308,103 +308,103 @@ translate french s00_birth_of_the_red_fang_2eee9db3:
 translate french s00_birth_of_the_red_fang_cf6ec5f9:
 
     # sk sun neutral "Lay down your weapons.{w=0.3} You and your men."
-    sk sun neutral ""
+    sk sun neutral "Baissez vos armes.{w=0.3} Toi et tes hommes"
 
 # game/script/story/st_00.rpy:162
 translate french s00_birth_of_the_red_fang_7b389797:
 
     # adt sun neutral "Betrayal, then."
-    adt sun neutral ""
+    adt sun neutral "Une trahison, donc."
 
 # game/script/story/st_00.rpy:163
 translate french s00_birth_of_the_red_fang_02ee7053:
 
     # sk sun neutral "I have no wish to kill you and turn you into a martyr, Adam...{w=0.5} But you've had more than enough warnings and I still lead the Fang.{w=0.3} Popularity or not."
-    sk sun neutral ""
+    sk sun neutral "Je ne souhaite aucunement te tuer et te transfirler en un martyr, Adam...{w=0.5} Mais tu as été averti bien plus de fois que nécessaire et je reste maîtresse du Fang.{w=0.3} Populaire ou non."
 
 # game/script/story/st_00.rpy:167
 translate french s00_birth_of_the_red_fang_e9d189c3:
 
     # sk nulla "There's no betrayal in reeling in the chain of a rabid dog."
-    sk nulla ""
+    sk nulla "Il n'y a aucune trahison à secouer la chaîne d'un chien enragé."
 
 # game/script/story/st_00.rpy:168
 translate french s00_birth_of_the_red_fang_1a45b35c:
 
     # adt sun neutral "I agree.{w=0.3} A necessary sacrifice, for the good of the cause."
-    adt sun neutral ""
+    adt sun neutral "Je l'admets.{w=0.3} Un sacrifice nécessaire, pour le bien de tous."
 
 # game/script/story/st_00.rpy:169
 translate french s00_birth_of_the_red_fang_909abb05:
 
     # adt sun amused "But I wasn't making an observation.{w=0.3} I was giving {i}an order{/i}."
-    adt sun amused ""
+    adt sun amused "Mais je ne faisais aucune observation.{w=0.3} Je donnais {i}un ordre{/i}."
 
 # game/script/story/st_00.rpy:182
 translate french s00_birth_of_the_red_fang_8191c4ed:
 
     # sk nulla "Berry!{w=0.3} What are you doing?!"
-    sk nulla ""
+    sk nulla "Berry !{w=0.3} Qu'est-ce qu'il te prend ?!"
 
 # game/script/story/st_00.rpy:183
 translate french s00_birth_of_the_red_fang_86d7dcc1:
 
     # adt sun amused "Seems like you've underestimated my 'popularity', Sienna…{w=0.3} Do you see, now?"
-    adt sun amused ""
+    adt sun amused "Il semblerait que tu aies sous-estimé ma \"popularité\", Sienna...{w=0.3} La vois-tu, maintenant ?"
 
 # game/script/story/st_00.rpy:185
 translate french s00_birth_of_the_red_fang_ea858cd6:
 
     # adt sun neutral "You're right.{w=0.3} Vision alone won't suffice in shaping our future.{w=0.3} Nor would it have brought even your most trusted aides to my side."
-    adt sun neutral ""
+    adt sun neutral "Tu as raison.{w=0.3} Une vision seule ne suffira pas à bâtir notre futur.{w=0.3} Cela n’aurait pas non plus amené à mes côtés même tes collaborateurs les plus fiables."
 
 # game/script/story/st_00.rpy:186
 translate french s00_birth_of_the_red_fang_b9a72e6e:
 
     # adt sun frown "What matters is {i}results{/i}, Sienna.{w=0.3} You call me rabid, underestimate me.{w=0.3} You can't see that my passion is but a fuel."
-    adt sun frown ""
+    adt sun frown "Ce qui importe sont {i}les résultats{/i}, Sienna.{w=0.3} Tu me qualifie d'enragé et me sous-estime.{w=0.3} Tu ne peux pas voir ma passion mais un combustible."
 
 # game/script/story/st_00.rpy:188
 translate french s00_birth_of_the_red_fang_307ced7d:
 
     # sk nulla "You...{w=0.5} You can't have-!"
-    sk nulla ""
+    sk nulla "Tu...{w=0.5} Tu ne peux pas avoir- !"
 
 # game/script/story/st_00.rpy:189
 translate french s00_birth_of_the_red_fang_55255fab:
 
     # adt sun neutral "Of course.{w=0.3} I didn't accept a meeting on your terms because of overconfidence.{w=0.3} I have been planning this for a long time."
-    adt sun neutral ""
+    adt sun neutral "Bien sûr.{w=0.3} Je n'ai pas accepté une rencontre en tes termes par excès de confiance.{w=0.3} J'ai planifié ceci depuis longtemps."
 
 # game/script/story/st_00.rpy:197
 translate french s00_birth_of_the_red_fang_98479a87:
 
     # adt nulla "I take no pleasure in this.{w=0.3} As I won't in what's going to happen to your remaining allies."
-    adt nulla ""
+    adt nulla "Je ne prend aucun plaisir à cela.wx=0.3} Et je n'en aurai pas pour ce qui va arriver à tes alliés restants."
 
 # game/script/story/st_00.rpy:203
 translate french s00_birth_of_the_red_fang_a8c3e0cc:
 
     # sk sun angry sweat "...!{w=0.15} You BASTARD!"
-    sk sun angry sweat ""
+    sk sun angry sweat "... !{w=0.15} ENFOIRÉ !"
 
 # game/script/story/st_00.rpy:208
 translate french s00_birth_of_the_red_fang_a91df02c:
 
     # adt sun neutral "But better the impurities be purged quickly, without a fight, than in a prolonged civil war…{w=0.5} Well, except for you, obviously."
-    adt sun neutral ""
+    adt sun neutral "Mais il est mieux de purger les impuretés rapidement, sans combattre, qu'une guerre civile prolongée...{w=0.5} Enfin, sauf pour toi, évidemment."
 
 # game/script/story/st_00.rpy:211
 translate french s00_birth_of_the_red_fang_b5e388c7:
 
     # adt sun amused "Assassination attempts would have been wasted on you, {i}supreme leader{/i}...{w=0.5} So please, fight.{w=0.3} Fight me, the dog you so sorely underestimated.{w=0.3} Fight the ones you trusted to have your back."
-    adt sun amused ""
+    adt sun amused "Des tentatives d'assassinat auraient été gâchées sur toi, {i}chef suprême{/i}...{w=0.5} Alors je t'en prie, combat.{w=0.3} Affronte-moi, le chien que tu as cruellement sous-estimé.{w=.3} Affronte ceux en qui tu as eu la confiance de surveiller tes arrières."
 
 # game/script/story/st_00.rpy:219
 translate french s00_birth_of_the_red_fang_e5eeb8eb:
 
     # sk sun angry sweat "Berry...{w=0.5} Rosso.{w=0.3} Everyone!{w=0.3} Don't make me do this..."
-    sk sun angry sweat ""
+    sk sun angry sweat "Berry...{w=0.5} Rosso.{w=0.3} Tous !{w=0.3} Ne me forcez pas à le faire..."
 
 # game/script/story/st_00.rpy:220
 translate french s00_birth_of_the_red_fang_7d1960ef:
