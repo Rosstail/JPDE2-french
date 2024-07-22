@@ -672,7 +672,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:490
     old "gl powersave"
-    new "sauvegarde d'énergie gl"
+    new "économie d'énergie gl"
 
     # renpy/common/00preferences.rpy:496
     old "gl framerate"
@@ -1004,7 +1004,7 @@ translate french strings:
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new ""
+    new "Image [index] sur [count] bloquée."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
@@ -1016,7 +1016,7 @@ translate french strings:
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
-    new ""
+    new "diaporama"
 
     # renpy/common/00gallery.rpy:650
     old "return"
@@ -1024,43 +1024,43 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Moteur de rendu"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Choisir Automatiquement"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Forcer Moteur de rendu GL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Forcer Moteur de rendu ANGLE"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Forcer Moteur de rendu GLES"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Forcer Moteur de rendu GL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Forcer Moteur de rendu ANGLE2"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Forcer Moteur de rendu GLES2"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Activer (Pas de liste de blocage)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Économie d'énergie"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
@@ -1080,75 +1080,75 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Les changements prendront effet au prochain démarrage du programme."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new ""
+    new "Avertissement performance"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new ""
+    new "Cet ordinateur utilise un logiciel de rendu."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Ce jeu nécessite l'utilisation de GL2 qui ne peut être initialisé."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Cet ordinateur a du mal pour afficher les graphismes: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Ses drivers graphiques peuvent être obsolètes ou ne pas fonctionner correctement. Cela peut provoquer des graphismes lents ou inexacts."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Le fichier {a=edit:1:log.txt}log.txt{/a} peut contenir des informations pour déterminer ce qui ne va pas avec votre ordinateur."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Plus de détails sur comment résoudre cela peuvent être trouvés dans la {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Poursuivre, Continuer à montrer cet avertissement "
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Poursuivre, Ne plus montrer cet avertissement"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Garder options de rendu"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Sélectionner le Gamepad pour calibrer"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Pas de Gamepads disponibles"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Calibration [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Presser ou bouger le '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Passer (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Retour (B)"
 
     # renpy/common/_errorhandling.rpym:662
     old "Open"
@@ -1156,7 +1156,7 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:664
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Ourvir le fichier traceback.txt dans un éditeur de texte."
 
     # renpy/common/_errorhandling.rpym:666
     old "Copy BBCode"
@@ -1164,27 +1164,27 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:668
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copier le fichier traceback.txt comme BBCode pour des forums comme https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:670
     old "Copy Markdown"
-    new ""
+    new "Copier Markdown"
 
     # renpy/common/_errorhandling.rpym:672
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copier le fichier traceback.txt comme Markdown pour Discord."
 
     # renpy/common/_errorhandling.rpym:703
     old "An exception has occurred."
-    new ""
+    new "Une exception s'est produite."
 
     # renpy/common/_errorhandling.rpym:726
     old "Rollback"
-    new ""
+    new "Retour en arrière"
 
     # renpy/common/_errorhandling.rpym:728
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Tenter un retour en arrière permet de sauvegarder ou de choisir un chemin différent."
 
     # renpy/common/_errorhandling.rpym:731
     old "Ignore"
@@ -1192,11 +1192,11 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:735
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignorer l'exception, permettant de continuer."
 
     # renpy/common/_errorhandling.rpym:737
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignorer l'exception, permettant de continuer. Cela peut souvent mener à des erreurs supplémentaires."
 
     # renpy/common/_errorhandling.rpym:741
     old "Reload"
@@ -1204,7 +1204,7 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:743
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recharger le jeu depuis le disque, sauvegarder et restorer l'état si possible."
 
     # renpy/common/_errorhandling.rpym:746
     old "Console"
@@ -1212,7 +1212,7 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:748
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Ouvrir une console pour permettre de debug le problème."
 
     # renpy/common/_errorhandling.rpym:761
     old "Quits the game."
@@ -1220,5 +1220,4 @@ translate french strings:
 
     # renpy/common/_errorhandling.rpym:782
     old "Parsing the script failed."
-    new ""
-
+    new "Échec du parsing du script."
