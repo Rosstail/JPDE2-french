@@ -8,35 +8,35 @@ translate french strings:
 
     # game/screens/other_screens.rpy:37
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens/other_screens.rpy:115
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens/other_screens.rpy:161
     old "Keyboard"
-    new ""
+    new "Clavier"
 
     # game/screens/other_screens.rpy:162
     old "Mouse"
-    new ""
+    new "Souris"
 
     # game/screens/other_screens.rpy:165
     old "Gamepad"
-    new ""
+    new "Gamepad"
 
     # game/screens/other_screens.rpy:178
     old "Enter"
-    new ""
+    new "Entrer"
 
     # game/screens/other_screens.rpy:179
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avance les dialogues et active l'interface."
 
     # game/screens/other_screens.rpy:182
     old "Space"
-    new ""
+    new "Espace"
 
     # game/screens/other_screens.rpy:183
     old "Advances dialogue without selecting choices."
@@ -44,35 +44,35 @@ translate french strings:
 
     # game/screens/other_screens.rpy:186
     old "Arrow Keys"
-    new ""
+    new "Touches directionnelles"
 
     # game/screens/other_screens.rpy:187
     old "Navigate the interface."
-    new ""
+    new "Naviguer dans l'interface."
 
     # game/screens/other_screens.rpy:190
     old "Escape"
-    new ""
+    new "Echap"
 
     # game/screens/other_screens.rpy:191
     old "Accesses the game menu."
-    new ""
+    new "Accéder au menu principal."
 
     # game/screens/other_screens.rpy:194
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens/other_screens.rpy:195
     old "Skips dialogue while held down."
-    new ""
+    new "Passe les dialogues en étant maintenu pressé."
 
     # game/screens/other_screens.rpy:198
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens/other_screens.rpy:199
     old "Toggles dialogue skipping."
-    new ""
+    new "Active le passage des dialogues."
 
     # game/screens/other_screens.rpy:202
     old "Page Up"
@@ -92,11 +92,11 @@ translate french strings:
 
     # game/screens/other_screens.rpy:211
     old "Hides the user interface."
-    new ""
+    new "Cache l'interface utilisateur."
 
     # game/screens/other_screens.rpy:215
     old "Takes a screenshot."
-    new ""
+    new "Prend une capture d'écran."
 
     # game/screens/other_screens.rpy:219
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -104,19 +104,19 @@ translate french strings:
 
     # game/screens/other_screens.rpy:223
     old "Opens the accessibility menu."
-    new ""
+    new "Ouvre le menu d'accessibilité."
 
     # game/screens/other_screens.rpy:229
     old "Left Click"
-    new ""
+    new "Clic gauche"
 
     # game/screens/other_screens.rpy:233
     old "Middle Click"
-    new ""
+    new "Clic molette"
 
     # game/screens/other_screens.rpy:237
     old "Right Click"
-    new ""
+    new "Clic droit"
 
     # game/screens/other_screens.rpy:241
     old "Mouse Wheel Up\nClick Rollback Side"
@@ -152,5 +152,5 @@ translate french strings:
 
     # game/screens/other_screens.rpy:276
     old "Calibrate"
-    new ""
+    new "Calibrer"
 
