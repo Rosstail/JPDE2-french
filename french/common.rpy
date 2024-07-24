@@ -256,11 +256,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short}Juin"
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}Juil"
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
@@ -472,7 +472,7 @@ translate french strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new "Êtes vous sûr?"
+    new "Êtes-vous sûr?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
