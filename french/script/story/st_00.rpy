@@ -308,7 +308,7 @@ translate french s00_birth_of_the_red_fang_2eee9db3:
 translate french s00_birth_of_the_red_fang_cf6ec5f9:
 
     # sk sun neutral "Lay down your weapons.{w=0.3} You and your men."
-    sk sun neutral "Baissez vos armes.{w=0.3} Toi et tes hommes"
+    sk sun neutral "Baissez vos armes.{w=0.3} Toi et tes hommes."
 
 # game/script/story/st_00.rpy:162
 translate french s00_birth_of_the_red_fang_7b389797:
@@ -320,13 +320,13 @@ translate french s00_birth_of_the_red_fang_7b389797:
 translate french s00_birth_of_the_red_fang_02ee7053:
 
     # sk sun neutral "I have no wish to kill you and turn you into a martyr, Adam...{w=0.5} But you've had more than enough warnings and I still lead the Fang.{w=0.3} Popularity or not."
-    sk sun neutral "Je ne souhaite aucunement te tuer et te transfirler en un martyr, Adam...{w=0.5} Mais tu as été averti bien plus de fois que nécessaire et je reste maîtresse du Fang.{w=0.3} Populaire ou non."
+    sk sun neutral "Je ne souhaite aucunement te tuer et faire de toi un martyr, Adam...{w=0.5} Mais tu as été averti bien plus de fois que nécessaire et je reste maîtresse du Fang.{w=0.3} Populaire ou non."
 
 # game/script/story/st_00.rpy:167
 translate french s00_birth_of_the_red_fang_e9d189c3:
 
     # sk nulla "There's no betrayal in reeling in the chain of a rabid dog."
-    sk nulla "Il n'y a aucune trahison à secouer la chaîne d'un chien enragé."
+    sk nulla "Il n'y a aucune trahison à briser la chaîne d'un chien enragé."
 
 # game/script/story/st_00.rpy:168
 translate french s00_birth_of_the_red_fang_1a45b35c:
@@ -338,13 +338,13 @@ translate french s00_birth_of_the_red_fang_1a45b35c:
 translate french s00_birth_of_the_red_fang_909abb05:
 
     # adt sun amused "But I wasn't making an observation.{w=0.3} I was giving {i}an order{/i}."
-    adt sun amused "Mais je ne faisais aucune observation.{w=0.3} Je donnais {i}un ordre{/i}."
+    adt sun amused "Mais je ne faisais pas d'observation.{w=0.3} Je donnais {i}un ordre{/i}."
 
 # game/script/story/st_00.rpy:182
 translate french s00_birth_of_the_red_fang_8191c4ed:
 
     # sk nulla "Berry!{w=0.3} What are you doing?!"
-    sk nulla "Berry !{w=0.3} Qu'est-ce qu'il te prend ?!"
+    sk nulla "Berry !{w=0.3} Que fais-tu ?!"
 
 # game/script/story/st_00.rpy:183
 translate french s00_birth_of_the_red_fang_86d7dcc1:
@@ -362,7 +362,7 @@ translate french s00_birth_of_the_red_fang_ea858cd6:
 translate french s00_birth_of_the_red_fang_b9a72e6e:
 
     # adt sun frown "What matters is {i}results{/i}, Sienna.{w=0.3} You call me rabid, underestimate me.{w=0.3} You can't see that my passion is but a fuel."
-    adt sun frown "Ce qui importe sont {i}les résultats{/i}, Sienna.{w=0.3} Tu me qualifie d'enragé et me sous-estime.{w=0.3} Tu ne peux pas voir ma passion mais un combustible."
+    adt sun frown "Ce qui importe sont {i}les résultats{/i}, Sienna.{w=0.3} Tu me qualifie d'enragé et me sous-estimes.{w=0.3} Tu ne peux voir que ma passion n'est qu'un carburant."
 
 # game/script/story/st_00.rpy:188
 translate french s00_birth_of_the_red_fang_307ced7d:
@@ -380,7 +380,7 @@ translate french s00_birth_of_the_red_fang_55255fab:
 translate french s00_birth_of_the_red_fang_98479a87:
 
     # adt nulla "I take no pleasure in this.{w=0.3} As I won't in what's going to happen to your remaining allies."
-    adt nulla "Je ne prend aucun plaisir à cela.wx=0.3} Et je n'en aurai pas pour ce qui va arriver à tes alliés restants."
+    adt nulla "Je ne prend aucun plaisir à cela.{w=0.3} Et je n'en aurai pas pour ce qui va arriver à tes derniers alliés."
 
 # game/script/story/st_00.rpy:203
 translate french s00_birth_of_the_red_fang_a8c3e0cc:
@@ -392,31 +392,31 @@ translate french s00_birth_of_the_red_fang_a8c3e0cc:
 translate french s00_birth_of_the_red_fang_a91df02c:
 
     # adt sun neutral "But better the impurities be purged quickly, without a fight, than in a prolonged civil war…{w=0.5} Well, except for you, obviously."
-    adt sun neutral "Mais il est mieux de purger les impuretés rapidement, sans combattre, qu'une guerre civile prolongée...{w=0.5} Enfin, sauf pour toi, évidemment."
+    adt sun neutral "Mais il vaut mieux purger les impuretés rapidement, sans combat, qu'une guerre civile prolongée...{w=0.5} Enfin, sauf pour toi, évidemment."
 
 # game/script/story/st_00.rpy:211
 translate french s00_birth_of_the_red_fang_b5e388c7:
 
     # adt sun amused "Assassination attempts would have been wasted on you, {i}supreme leader{/i}...{w=0.5} So please, fight.{w=0.3} Fight me, the dog you so sorely underestimated.{w=0.3} Fight the ones you trusted to have your back."
-    adt sun amused "Des tentatives d'assassinat auraient été gâchées sur toi, {i}chef suprême{/i}...{w=0.5} Alors je t'en prie, combat.{w=0.3} Affronte-moi, le chien que tu as cruellement sous-estimé.{w=.3} Affronte ceux en qui tu as eu la confiance de surveiller tes arrières."
+    adt sun amused "Des tentatives d'assassinat auraient été gâchées sur toi, {i}chef suprême{/i}...{w=0.5} Alors je t'en prie, combats.{w=0.3} Affrontes-moi, le chien que tu as cruellement sous-estimé.{w=0.3} Affrontes ceux en qui tu avais si confiance d'assurer tes arrières."
 
 # game/script/story/st_00.rpy:219
 translate french s00_birth_of_the_red_fang_e5eeb8eb:
 
     # sk sun angry sweat "Berry...{w=0.5} Rosso.{w=0.3} Everyone!{w=0.3} Don't make me do this..."
-    sk sun angry sweat "Berry...{w=0.5} Rosso.{w=0.3} Tous !{w=0.3} Ne me forcez pas à le faire..."
+    sk sun angry sweat "Berry...{w=0.5} Rosso.{w=0.3} Tous !{w=0.3} Ne me forcez pas à faire ça..."
 
 # game/script/story/st_00.rpy:220
 translate french s00_birth_of_the_red_fang_7d1960ef:
 
     # adt nulla "Fight as much as you'd like...{w=0.5} And then, die."
-    adt nulla "Bats-toi tant que tu le souhaites...{w=0.5} Puis meurs."
+    adt nulla "Bats-toi tant que tu le souhaites...{w=0.5} Puis, meurs."
 
 # game/script/story/st_00.rpy:222
 translate french s00_birth_of_the_red_fang_f0a3a714:
 
     # adt nulla "Die betrayed, outsmarted, outgunned...{w=0.5} And {i}alone{/i}."
-    adt nulla "Meurs trahie, en sous-nombre, sous-armée...{w=0.5} Et {i}seule{/i}."
+    adt nulla "Meurs trahie, déjouée, désarmée...{w=0.5} Et {i}seule{/i}."
 
 # game/script/story/st_00.rpy:232
 translate french s00_birth_of_the_red_fang_730143e2:
@@ -440,7 +440,7 @@ translate french s00_birth_of_the_red_fang_08fea26d:
 translate french s00_birth_of_the_red_fang_a6a860d6:
 
     # rf_2 sun "Something crashed through the ceiling!"
-    rf_2 sun "Quelque chose s'est écrasé à travers le plafond !"
+    rf_2 sun "Quelque chose est passé à travers le plafond !"
 
 # game/script/story/st_00.rpy:253
 translate french s00_birth_of_the_red_fang_94809cb3:
@@ -458,19 +458,19 @@ translate french s00_birth_of_the_red_fang_4309ecc4:
 translate french s00_birth_of_the_red_fang_b013d437:
 
     # adt sun shout "Sienna is trying to escape!{w=0.5} Don't let her lose you among the pillars to the west!"
-    adt sun shout "Sienna essaye de s'enfuir !{w=0.5} Ne la laissez pas vous semez en passant par les pilliers à l'ouest !"
+    adt sun shout "Sienna essaye de s'enfuir !{w=0.5} Ne la laissez pas vous semez en passant au travers des piliers à l'ouest !"
 
 # game/script/story/st_00.rpy:259
 translate french s00_birth_of_the_red_fang_737d1285:
 
     # sk_i sun angry "(Bastard...!{w=0.5} What kind of ears does he have?)"
-    sk_i sun angry "'Enfoiré... !{w=0.5} Qu'est-ce qu'il a comme genre d'oreilles ?)"
+    sk_i sun angry "(Enfoiré... !{w=0.5} Qu'est-ce qu'il a comme genre d'oreilles ?)"
 
 # game/script/story/st_00.rpy:260
 translate french s00_birth_of_the_red_fang_98f7645c:
 
     # adt sun frown "And someone go check that out..."
-    adt sun frown "Et quelqu'un part vérifier tout ça..."
+    adt sun frown "Et que quelqu'un part vérifier tout ça..."
 
 # game/script/story/st_00.rpy:261
 translate french s00_birth_of_the_red_fang_9a926d2f:
@@ -518,7 +518,7 @@ translate french s00_birth_of_the_red_fang_c755c765:
 translate french s00_birth_of_the_red_fang_bb51b56b:
 
     # sk_i "(Ugh, get it together, Sienna!{w=0.3} It hasn't been {i}that{/i} long since your last fight, just get out of here already!)"
-    sk_i "(Allez, reprend-toi, Sienna !{w=0.3} Ça ne fait pas si longtemps depuis ton dernier combat, dégerpie de là tout de suite !)"
+    sk_i "(Allez, reprend-toi, Sienna !{w=0.3} Ça ne fait pas {i}si{/i} longtemps depuis ton dernier combat, dégerpie de là tout de suite !)"
 
 # game/script/story/st_00.rpy:306
 translate french s00_birth_of_the_red_fang_faa06063:
@@ -554,7 +554,7 @@ translate french s00_birth_of_the_red_fang_0106df82:
 translate french s00_birth_of_the_red_fang_1e2eb56c:
 
     # rf_4 sun "Mother-!"
-    rf_4 sun "Maman- !"
+    rf_4 sun "Fils de- !"
 
 # game/script/story/st_00.rpy:320
 translate french s00_birth_of_the_red_fang_8e8e2976:
@@ -572,7 +572,7 @@ translate french s00_birth_of_the_red_fang_4a480ff7:
 translate french s00_birth_of_the_red_fang_5d5085ff:
 
     # sk sun shock sweat "Who {i}are{/i} you?"
-    sk sun shock sweat "Wui {i}es{/i}-tu ?"
+    sk sun shock sweat "Qui {i}es{/i}-tu ?"
 
 # game/script/story/st_00.rpy:325
 translate french s00_birth_of_the_red_fang_0120510c:
@@ -620,7 +620,7 @@ translate french s00_birth_of_the_red_fang_bfef9d18:
 translate french s00_birth_of_the_red_fang_abb6ad00:
 
     # adt sun shout "The situation hasn't changed.{w=0.3} Sienna won't leave here alive!{w=0.3} Go!"
-    adt sun shout "La situation n'a pas changé.{w=0.3} Sienna ne partira pas d'ici vivant !{w=0.3} Allez !"
+    adt sun shout "La situation n'a pas changé.{w=0.3} Sienna ne partira pas d'ici vivante !{w=0.3} Allez !"
 
 # game/script/story/st_00.rpy:349
 translate french s00_birth_of_the_red_fang_7de163bc:
@@ -638,31 +638,31 @@ translate french s00_birth_of_the_red_fang_ac564341:
 translate french s00_birth_of_the_red_fang_1bd079b6:
 
     # sk nulla "Another exit?!{w=0.3} What are you talking-"
-    sk nulla "Une autre sortie ?!{w=0.3} De quoi parle-" # vouvoiement ou tutoiement entre les deux ?
+    sk nulla "Une autre sortie ?!{w=0.3} De quoi parles-"
 
 # game/script/story/st_00.rpy:353
 translate french s00_birth_of_the_red_fang_fd94ae91:
 
     # d nulla "We have precisely {i}zero time{/i} to waste.{w=0.3} So here's the full disclosure."
-    d nulla "Nous n'avons juste {i}pas de temps{/i} à perdre.{w=0.3} Donc voilà l'idée complète."
+    d nulla "Nous n'avons juste {i}pas de temps{/i} à perdre.{w=0.3} Donc voilà le plan complet."
 
 # game/script/story/st_00.rpy:356
 translate french s00_birth_of_the_red_fang_8aa72d5b:
 
     # d "I'm supposed to extract you but I'm not going to {i}die{/i} for you.{w=0.3} I will now fight my way to the Altar."
-    d "Je suis supposé vous extraire mais je ne vais pas {i}mourrir{/i} pour vous.{w=0.3} Je vais maintenant me frayer un chemin jusqu'à l'autel."
+    d "Je suis supposé vous extraire mais je ne compte pas {i}mourir{/i} pour vous.{w=0.3} Je vais maintenant me frayer un chemin jusqu'à l'autel."
 
 # game/script/story/st_00.rpy:358
 translate french s00_birth_of_the_red_fang_f11112f1:
 
     # d "You're welcome to tag along or you can try your luck through the hail of bullets.{w=0.3} Choice is yours."
-    d "Vous êtes la bienvenue pour m'accompagner ou vous pouvez tenter votre chance vers cette pluie de balle.{w=0.3} Faites votre choix."
+    d "Vous êtes la bienvenue à me suivre ou vous pouvez tenter votre chance à travers cette pluie de balles.{w=0.3} Faites votre choix."
 
 # game/script/story/st_00.rpy:361
 translate french s00_birth_of_the_red_fang_ce9b0713:
 
     # sk "Tsk, whatever!{w=0.3} Just lead the way."
-    sk "Tsk, qu'importe !{w=0.3} Ouvrez juste le chemin."
+    sk "Tsk, qu'importe !{w=0.3} Montres juste le chemin."
 
 # game/script/story/st_00.rpy:363
 translate french s00_birth_of_the_red_fang_bd32cead:
@@ -686,7 +686,7 @@ translate french s00_birth_of_the_red_fang_81d7ea9c:
 translate french s00_birth_of_the_red_fang_35acae02:
 
     # d "I trust you won't be holding back?"
-    d "Je vous fais confiance pour ne pas vous retenir ?"
+    d "Je peux espérer que vous ne vous retiendrez pas ?"
 
 # game/script/story/st_00.rpy:374
 translate french s00_birth_of_the_red_fang_2ed93a59:
@@ -710,7 +710,7 @@ translate french battle_00_01_end_e7f0a17a:
 translate french battle_00_01_end_aa14d17d:
 
     # sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}you gods damned fools...{w=0.5} How could you be so stupid?!"
-    sk nulla ".{w=0.3}.{w=0.3}.{w=0.5} Bande d'idiots...{w=0.5} Comment vous pouvez être aussi stupides ?!" # "Bande de cons " ?
+    sk nulla ".{w=0.3}.{w=0.3}.{w=0.5} Bande d'idiots...{w=0.5} Comment pouvez-vous être aussi stupides ?!"
 
 # game/script/story/st_00.rpy:425
 translate french battle_00_01_end_f78e4a78:
@@ -728,7 +728,7 @@ translate french battle_00_01_end_64c22de3:
 translate french battle_00_01_end_ffb62b58:
 
     # sk "Adam!"
-    sk "Adamn !"
+    sk "Adam !"
 
 # game/script/story/st_00.rpy:433
 translate french battle_00_01_end_88b0965d:
@@ -740,7 +740,7 @@ translate french battle_00_01_end_88b0965d:
 translate french battle_00_01_end_88863b26:
 
     # d "Heh...{w=0.5} Sorry, no can do."
-    d "Eh...{w=0.5} Désolé, mais je n'y peux rien."
+    d "Eh...{w=0.5} Désolé, mais je refuse."
 
 # game/script/story/st_00.rpy:443
 translate french battle_00_01_end_407b3255:
@@ -752,13 +752,13 @@ translate french battle_00_01_end_407b3255:
 translate french battle_00_01_end_60e3ab9e:
 
     # sk "Didn't you say you wouldn't risk your life for me?"
-    sk "Vous n'aviez pas dis ne pas risquer votre vie pour moi ?"
+    sk "N'avais-tu pas dit ne pas risquer ta vie pour moi ?"
 
 # game/script/story/st_00.rpy:446
 translate french battle_00_01_end_6e6a644f:
 
     # d "Not exactly.{w=0.3} I said I wouldn't {i}die{/i} for you, so you have to ask yourself..."
-    d "Pas exactement.{w=0.3} J'ai dis que je n'irai pas {i}mourrir{/i} pour vous, vous devriez donc vous demander..."
+    d "Pas exactement.{w=0.3} J'ai dis que je n'irai pas {i}mourir{/i} pour vous, vous devriez donc vous demander..."
 
 # game/script/story/st_00.rpy:449
 translate french battle_00_01_end_c655885d:
@@ -782,7 +782,7 @@ translate french battle_00_02_end_a10b12f0:
 translate french battle_00_02_end_ea92de5e:
 
     # d_i sun surprise "(My what, now?)"
-    d_i sun surprise "(Mon quoi, maintenant ?)"
+    d_i sun surprise "(Mon quoi ?)"
 
 # game/script/story/st_00.rpy:490
 translate french battle_00_02_end_841f21bf:
@@ -806,7 +806,7 @@ translate french battle_00_02_end_3e22265e:
 translate french battle_00_02_end_0f1770fe:
 
     # d_i sun pain sweat "(M-{w=0.15}My Aura cover...{w=0.3} How many times did he...?!)"
-    d_i sun pain sweat "(M-{w=0.15}Ma couverture d'Aura...{w=0.3} Combien de fois il a...?!)"
+    d_i sun pain sweat "(M-{w=0.15}Mon bouclier d'Aura...{w=0.3} Combien de fois il a...?!)"
 
 # game/script/story/st_00.rpy:507
 translate french battle_00_02_end_f7e45933:
@@ -830,7 +830,7 @@ translate french battle_00_02_end_61083fd7:
 translate french battle_00_02_end_29a29ce7:
 
     # adt surprise "Rocket wha-"
-    adt surprise "Poing fus-"
+    adt surprise "Poing quo-"
 
 # game/script/story/st_00.rpy:526
 translate french battle_00_02_end_fac2746b:
@@ -842,25 +842,25 @@ translate french battle_00_02_end_fac2746b:
 translate french battle_00_02_end_dad0e5a5:
 
     # d_i nulla "(Hah!{w=0.3} Right in the chin!)"
-    d_i nulla "(Ah !{w=0.3} Droit dans le menton !)"
+    d_i nulla "(Ah !{w=0.3} En pleine mâchoire !)"
 
 # game/script/story/st_00.rpy:529
 translate french battle_00_02_end_00e2efb8:
 
     # d_i nulla "(Wait...{w=0.5} His eyes...?!{w=0.3} You gotta be kidding me!)"
-    d_i nulla "(Attends...{w=0.5} Ses yeux... ?!{w=0.3} Vous vous foutez de moi !)"
+    d_i nulla "(Attends...{w=0.5} Ses yeux... ?!{w=0.3} Tu te fous de moi !)"
 
 # game/script/story/st_00.rpy:530
 translate french battle_00_02_end_f96773ec:
 
     # sk nulla "Your arm...?!"
-    sk nulla "Votre bras... ?!"
+    sk nulla "Ton bras... ?!"
 
 # game/script/story/st_00.rpy:532
 translate french battle_00_02_end_da8f53fc:
 
     # d nulla "Lost the old one during the Fall of Beacon.{w=0.3} This one's pretty useful, though, wouldn't you agree?"
-    d nulla "J'ai perdu l'ancien durant la Chute de Beacon.{w=0.3} Mais celui là est plutôt utile, n'est-ce pas ?"
+    d nulla "J'ai perdu l'ancien pendant la Chute de Beacon.{w=0.3} Mais celui là est plutôt utile, n'est-ce pas ?"
 
 # game/script/story/st_00.rpy:535
 translate french battle_00_02_end_d149f6db:
@@ -884,7 +884,7 @@ translate french battle_00_02_end_bb2267ea:
 translate french battle_00_02_end_b56b5867:
 
     # d ".{w=0.3}.{w=0.3}.{w=0.5}as much as I'd love to make you pay for your involvement...{w=0.5} {i}Butcher of Beacon{/i}..."
-    d ".{w=0.3}.{w=0.3}.{w=0.5} Autant j'adorerai te faire payer pour ton implication...{w=0.5} {i}Boucher of Beacon{/i}..."
+    d ".{w=0.3}.{w=0.3}.{w=0.5} Autant j'adorerai te...{w=0.5} {i}Boucher de Beacon{/i}..."
 
 # game/script/story/st_00.rpy:549
 translate french battle_00_02_end_15cd3f4c:
