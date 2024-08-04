@@ -98,3 +98,11 @@ translate french strings:
     old "SPECIAL THANKS"
     new ""
 
+# TODO: Translation updated at 2024-07-26 12:58
+
+translate french strings:
+
+    # game/script/credits.rpy:7
+    old "Episode 07 - Returns"
+    new ""
+
