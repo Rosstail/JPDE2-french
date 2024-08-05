@@ -1,5 +1,3 @@
-Amélioration du readme à apporter notamment sur les consignes et les traductions de termes spécifiques.
-
 **Consignes**
 
 - Créer un milestone pour la release SI besoin (priorité à ceux qui ont l'habitude de Github)
@@ -8,7 +6,9 @@ Amélioration du readme à apporter notamment sur les consignes et les traductio
 - Traduire en privilégiant les termes spécifiques choisis par l'équipe (voir glossaire) et en mettant en avant l'idée d'une phrase si nécessaire au contexte
 - Interdit de push la branche sans avoir reçu l'approbation du reviewer
 
-Dans l'ordre normal des choses, un traducteur arrive et il existe une issue pour chaque fichier à traduire dans le milestone en cours avec ses consignes (si fichier très long, décomposer en plusieurs issues, chaque issue allant max à 1000 lignes).
+Dans l'ordre normal des choses, un traducteur arrive et il existe une issue pour chaque fichier à traduire dans le milestone en cours avec ses consignes (si fichier très long, décomposer en plusieurs issues, chaque issue allant max à 1000 lignes et si fichier trop court (-50 lignes, issue commune à un autre fichier).
+
+**Utilisation de git et comment traduire les fichiers .rpy**
 
 Le traducteur créer alors une branche pour l'issue après s'être assigner dessus, puis clone le repo en local (gh repo clone Rosstail/JPDE2-french) avant de se placer sur la branche, "git branch" pour vérifier la branche actuelle (en vert) et "git switch NomDeLaBranche" pour se déplacer.
 
@@ -21,12 +21,19 @@ La première ligne (#) est un commentaire utile pour les dév et correcteurs/tes
 La seconde ligne est la ligne dans la langue par défaut. La troisième est la ligne qui va la remplacer.
 Tous 'code' doit être copié collé dans la même ponctuation (espacement). L'écrire soi-même peut mener à des fautes et une légère perte de temps.
 
+**Pour les seniors du Github (milestone/issues)**
+
+Un milestone doit avoir une due date, pour se fixer des limites et s'encourager à travailler. Un milestone = une release.
+Une issue doit se nommer "Rx - Nom des fichiers" où x est le numéro de la release.
+"R2 - Credits"
+Dans la description, doivent être indiqués le chemin du/des fichier.s (/chemin de son dossier/ + url de son dossier) et sa longueur en lignes.
+
+Lors d'un nouvel épisode, une branche doit être créée pour merge les nouveaux fichiers avec les anciens, il est interdit de merge la branche avant d'avoir eu une review, comme toutes les autres.
+Pour les conflits, il faut les résoudre. Si c'est le cas, c'est que du texte a été ajouté, il faut donc le notifier par une issue.
+
 **Glossaire**
 
-Soit un fichier à part (un tableau soit excel soit un word avec son pdf à jour dans lequel on met un tableau à 2 colonnes), ou l'écrire direct dans le readme, mais ça peux vite devenir le bazar je trouve
-
 _Termes du monde de RWBY_
-
 - Huntsmen/Huntresses -> Chasseurs/Chasseuses
 - Aura -> (une) Aura
 - Semblance -> (une) Semblance
