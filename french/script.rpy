@@ -230,3 +230,55 @@ translate french strings:
     old "Andrea Damerot"
     new "Andrea Damerot"
 
+    # game/script.rpy:93
+    old "Pythia Nikos"
+    new ""
+
+    # game/script.rpy:209
+    old "Captain"
+    new ""
+
+    # game/script.rpy:210
+    old "Chief Engineer"
+    new ""
+
+    # game/script.rpy:211
+    old "Navigator"
+    new ""
+
+    # game/script.rpy:230
+    old "May Zedong"
+    new ""
+
+    # game/script.rpy:238
+    old "Server"
+    new ""
+
+    # game/script.rpy:261
+    old "Weser van Goethe"
+    new ""
+
+    # game/script.rpy:269
+    old "Pop Pop"
+    new ""
+
+    # game/script.rpy:270
+    old "Gran Gran"
+    new ""
+
+    # game/script.rpy:271
+    old "Fishmonger"
+    new ""
+
+    # game/script.rpy:275
+    old "Cinder Fall"
+    new ""
+
+    # game/script.rpy:284
+    old "Medea Kallas"
+    new ""
+
+    # game/script.rpy:293
+    old "Morgan Braeburn"
+    new ""
+
