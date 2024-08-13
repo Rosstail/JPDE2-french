@@ -232,53 +232,53 @@ translate french strings:
 
     # game/script.rpy:93
     old "Pythia Nikos"
-    new ""
+    new "Pythia Nikos"
 
     # game/script.rpy:209
     old "Captain"
-    new ""
+    new "Capitaine"
 
     # game/script.rpy:210
     old "Chief Engineer"
-    new ""
+    new "Ingénieur en chef"
 
     # game/script.rpy:211
     old "Navigator"
-    new ""
+    new "Navigateur"
 
     # game/script.rpy:230
     old "May Zedong"
-    new ""
+    new "May Zedong"
 
     # game/script.rpy:238
     old "Server"
-    new ""
+    new "Serveur"
 
     # game/script.rpy:261
     old "Weser van Goethe"
-    new ""
+    new "Weser van Goethe"
 
     # game/script.rpy:269
     old "Pop Pop"
-    new ""
+    new "Pop Pop"
 
     # game/script.rpy:270
     old "Gran Gran"
-    new ""
+    new "Gran Gran"
 
     # game/script.rpy:271
     old "Fishmonger"
-    new ""
+    new "Fishmonger"
 
     # game/script.rpy:275
     old "Cinder Fall"
-    new ""
+    new "Cinder Fall"
 
     # game/script.rpy:284
     old "Medea Kallas"
-    new ""
+    new "Medea Kallas"
 
     # game/script.rpy:293
     old "Morgan Braeburn"
-    new ""
+    new "Morgan Braeburn"
 
