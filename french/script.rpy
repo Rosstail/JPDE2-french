@@ -230,6 +230,10 @@ translate french strings:
     old "Andrea Damerot"
     new "Andrea Damerot"
 
+# TODO: Translation updated at 2024-07-26 12:58
+
+translate french strings:
+
     # game/script.rpy:93
     old "Pythia Nikos"
     new ""
