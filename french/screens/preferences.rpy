@@ -4,17 +4,17 @@ translate french strings:
 
     # game/screens/preferences.rpy:13
     old "Preferences"
-    new ""
+    new "Préférences"
 
     # game/screens/preferences.rpy:86
     old "Unseen Text"
-    new ""
+    new "Texte non vu"
 
     # game/screens/preferences.rpy:87
     old "After Choices"
-    new ""
+    new "Après Choix"
 
     # game/screens/preferences.rpy:88
     old "Transitions"
-    new ""
+    new "Transitions"
 
