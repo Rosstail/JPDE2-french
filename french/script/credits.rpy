@@ -52,7 +52,7 @@ translate french strings:
 
     # game/script/credits.rpy:99
     old "3D MODELLER"
-    new "MODÉLEUR 3D"
+    new "MODÉLISATEUR 3D"
 
     # game/script/credits.rpy:105
     old "3D ANIMATOR"
