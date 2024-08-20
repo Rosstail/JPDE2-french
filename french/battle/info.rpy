@@ -4,73 +4,73 @@ translate french strings:
 
     # game/battle/info.rpy:11
     old "[title]"
-    new ""
+    new "[title]"
 
     # game/battle/info.rpy:12
     old "[contents]"
-    new ""
+    new "[contents]"
 
     # game/battle/info.rpy:19
     old "[elemental]"
-    new ""
+    new "[elemental]"
 
     # game/battle/info.rpy:39
     old "[player.name]"
-    new ""
+    new "[player.name]"
 
     # game/battle/info.rpy:45
     old "Resistance"
-    new ""
+    new "Résistance"
 
     # game/battle/info.rpy:49
     old "[player.resist]"
-    new ""
+    new "[player.resist]"
 
     # game/battle/info.rpy:57
     old "Weakness"
-    new ""
+    new "Faiblesse"
 
     # game/battle/info.rpy:61
     old "[player.weak]"
-    new ""
+    new "[player.weak]"
 
     # game/battle/info.rpy:69
     old "Nullify"
-    new ""
+    new "Annule"
 
     # game/battle/info.rpy:73
     old "[player.nulli]"
-    new ""
+    new "[player.nulli]"
 
     # game/battle/info.rpy:81
     old "Reflect"
-    new ""
+    new "Refléte"
 
     # game/battle/info.rpy:85
     old "[player.reflect]"
-    new ""
+    new "[player.reflect]"
 
     # game/battle/info.rpy:90
     old "Close"
-    new ""
+    new "Conclut"
 
     # game/battle/info.rpy:109
     old "[enemy.name]"
-    new ""
+    new "[enemy.name]"
 
     # game/battle/info.rpy:119
     old "[enemy.resist]"
-    new ""
+    new "[enemy.resist]"
 
     # game/battle/info.rpy:131
     old "[enemy.weak]"
-    new ""
+    new "[enemy.weak]"
 
     # game/battle/info.rpy:143
     old "[enemy.nulli]"
-    new ""
+    new "[enemy.nulli]"
 
     # game/battle/info.rpy:155
     old "[enemy.reflect]"
-    new ""
+    new "[enemy.reflect]"
 
