@@ -12,7 +12,7 @@ translate french strings:
 
     # game/screens/gem/choice_ring.rpy:11
     old "I know her intimately."
-    new "Je l'a connais intimement."
+    new "Je la connais intimement."
 
     # game/screens/gem/choice_ring.rpy:11
     old "I know her because she's Blake Belladonna's mother. We met when she came to see her daughter... And some things happened."
