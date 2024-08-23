@@ -16,25 +16,25 @@ translate french outback_talk_01_29002587:
 translate french outback_talk_01_a290ff97:
 
     # p nulla "I was just thinking, Ruby buys each month enough supplies for herself and Maria...{w=0.5} Even without accounting for water, that's quite the sizeable amount."
-    p nulla "J'étais juste en train de réfléchir, Ruby achète tous les mois assez de provisions pour elle-même et Maria...{w=0.5} Sans même prendre en compte de l'eau, cela représente une quantité assez importante."
+    p nulla "J'étais juste en train de réfléchir, Ruby achète tous les mois assez de provisions pour elle-même et Maria...{w=0.5} Sans même prendre en compte l'eau, cela représente une quantité assez importante."
 
 # game/maps/outback_01.rpy:192
 translate french outback_talk_01_945e63e6:
 
     # e nulla "Oh, I see.{w=0.3} She must have some kind of vehicle or transport to get them to point B, after being dropped off here."
-    e nulla "Oh, je vois.{w=0.3} Elle doit avoir une sorte de véhicule de transport pour les emmener au point B, après être déposée ici."
+    e nulla "Oh, je vois.{w=0.3} Elle doit avoir une sorte de véhicule ou de transport pour les emmener au point B, après avoir été déposée ici."
 
 # game/maps/outback_01.rpy:194
 translate french outback_talk_01_6afa6b5c:
 
     # p nulla "That was my idea.{w=0.3} Yet, I don't see any tracks which would correspond in our vicinity..."
-    p nulla "C'était mon idée.{w=0.3} Pourtant, je ne vois aucune trace qui pourrait correspondre dans notre voisinage."
+    p nulla "C'était mon idée.{w=0.3} Pourtant, je ne vois aucune trace qui pourrait correspondre à nos environs."
 
 # game/maps/outback_01.rpy:207
 translate french outback_interact_01_b885c2eb:
 
     # p smile sweatdrop "Definitely a creation of Ruby, wouldn't you say?"
-    p smile sweatdrop "Défintivement une création de Ruby, tu ne dirais pas ?"
+    p smile sweatdrop "Définitivement une création de Ruby, tu ne dirais pas ?"
 
 # game/maps/outback_01.rpy:208
 translate french outback_interact_01_e45b9947:
@@ -46,7 +46,7 @@ translate french outback_interact_01_e45b9947:
 translate french outback_interact_01_0d668c10:
 
     # d nulla "The circle of pebbles around the blast radius is one thing, but 'MINE' painted in bright red with a giant arrow on the nearby rock?"
-    d nulla "Le cercle de cailloux autour du rayon d'explosion est une chose, mais 'A MWA' peint en rouge brillant avec un arc géant sur le rocher à côté ?"
+    d nulla "Le cercle de cailloux autour du rayon d'explosion est une chose, mais 'A MWA' peint en rouge brillant avec une flèche géante sur le rocher d'à côté ?"
 
 # game/maps/outback_01.rpy:213
 translate french outback_interact_01_c786a6bf:
@@ -64,13 +64,13 @@ translate french outback_interact_01_2bb621e6:
 translate french outback_interact_01_92e2f7c6:
 
     # g_st c_mili neutral glitch "Observation.{w=0.3} She may use the clearly marked one to lull enemies into a false sense of security for any hidden ones."
-    g_st c_mili neutral glitch "Observation.{w=0.3} Elle peut utiliser celui clairement indiqué pour induire les ennemis dans un faux sentiment de sécurité pour ceux qui sont cachés."
+    g_st c_mili neutral glitch "Observation.{w=0.3} Elle pourrait utiliser celui clairement indiqué pour induire les ennemis dans un faux sentiment de sécurité pour ceux qui se sont cachés."
 
 # game/maps/outback_01.rpy:247
 translate french outback_talk_02_979ea004:
 
     # j surprise "Hey, carrots.{w=0.3} Can I ask you something?"
-    j surprise "Hey, carrotes.{w=0.3} Est-ce que je peux te demander quelque chose ?"
+    j surprise "Hey, carotes.{w=0.3} Est-ce que je peux te demander quelque chose ?"
 
 # game/maps/outback_01.rpy:248
 translate french outback_talk_02_01d1643f:
@@ -82,13 +82,13 @@ translate french outback_talk_02_01d1643f:
 translate french outback_talk_02_296a786c:
 
     # j nulla "I was thinking about something you said earlier...{w=0.3} How you could tell the mines are gunpowder based because of the smell.{w=0.3} How do you know what gunpowder smells like?"
-    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Comment peux-tu dire que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment sais-tu ce que sent la poudre à canon ?"
+    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Comment peux-tu dire que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment connais-tu l'odeur de la poudre à canon ?"
 
 # game/maps/outback_01.rpy:257
 translate french outback_talk_02_e30210d6:
 
     # e nulla "Oh, that?{w=0.3} Easy, my uncle used to make fireworks, back when I was young."
-    e nulla "Oh, ça ?{w=0.3} Facile, mon oncle a déjà fait des feux d'artifices, quand j'étais petite."
+    e nulla "Oh, ça ?{w=0.3} Facile, mon oncle avait l'habitude de faire des feux d'artifices, quand j'étais petite."
 
 # game/maps/outback_01.rpy:259
 translate french outback_talk_02_7647c577:
@@ -100,13 +100,13 @@ translate french outback_talk_02_7647c577:
 translate french outback_talk_02_8e61cd51:
 
     # e nulla "It really was!{w=0.3} He worked in Vale but he came back to the village three times a year for the festival."
-    e nulla "Ça l'était vraiment !{w=0.3} Il à travaillé à Vale mais il est retournai au village trois fois par an pour le festival."
+    e nulla "Ça l'était vraiment !{w=0.3} Il à travaillé à Vale mais il retournait au village trois fois par an pour le festival."
 
 # game/maps/outback_01.rpy:263
 translate french outback_talk_02_13185727:
 
     # e nulla "And every time it happened, I was the coolest kid in town for a week!{w=0.3} Free poppers for everyone!"
-    e nulla "Et à chaque fois que c'est arrivé, il était l'enfant en ville le plus cool pour toute une semaine !{w=0.3} Des poppers gratuits pour tout le monde !"
+    e nulla "Et à chaque fois que c'est arrivé, il était l'enfant du village le plus cool pour toute une semaine !{w=0.3} Des bombes de table gratuites pour tout le monde !"
 
 # game/maps/outback_01.rpy:265
 translate french outback_talk_02_908c8fae:
@@ -118,7 +118,7 @@ translate french outback_talk_02_908c8fae:
 translate french outback_talk_02_5e568321:
 
     # e nulla "He was...{w=0.5} Used to spoil me rotten, really.{w=0.3} Me and Andrea both."
-    e nulla "Il l'était...{w=0.5} Il avait l'habitude de me gâtter pourri, vraiment.{w=0.3} Andrea et moi tous les deux."
+    e nulla "Il l'était...{w=0.5} Il avait l'habitude de me pourri gâtté, vraiment.{w=0.3} Andrea et moi tous les deux."
 
 # game/maps/outback_01.rpy:271
 translate french outback_talk_02_bb17f93f:
