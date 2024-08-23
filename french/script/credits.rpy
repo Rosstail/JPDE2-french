@@ -4,7 +4,7 @@ translate french strings:
 
     # game/script/credits.rpy:7
     old "Episode 06 - The Ties That Bind"
-    new "Épisode 06 - Les Liens qui unissent"
+    new "Épisode 06 - Les Liens Qui Unissent"
 
     # game/script/credits.rpy:19
     old "PRODUCER, DIRECTOR"
