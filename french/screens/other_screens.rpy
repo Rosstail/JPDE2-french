@@ -48,7 +48,7 @@ translate french strings:
 
     # game/screens/other_screens.rpy:187
     old "Navigate the interface."
-    new "Naviguer l'interface."
+    new "Naviguer dans l'interface."
 
     # game/screens/other_screens.rpy:190
     old "Escape"
