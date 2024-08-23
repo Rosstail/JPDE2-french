@@ -84,7 +84,7 @@ translate french strings:
 
     # game/music_room/music_room.rpy:406
     old "Track List"
-    new "List des pistes sonores"
+    new "Liste des pistes sonores"
 
     # game/music_room/music_room.rpy:451
     old "No song playing"
