@@ -4,25 +4,25 @@ translate french strings:
 
     # game/screens/dialogue_screens.rpy:96
     old "Back"
-    new ""
+    new "Retour"
 
     # game/screens/dialogue_screens.rpy:97
     old "History"
-    new ""
+    new "Historique"
 
     # game/screens/dialogue_screens.rpy:98
     old "Skip"
-    new ""
+    new "Passer"
 
     # game/screens/dialogue_screens.rpy:99
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens/dialogue_screens.rpy:100
     old "Save"
-    new ""
+    new "Sauvegarde"
 
     # game/screens/dialogue_screens.rpy:101
     old "Settings"
-    new ""
+    new "Options"
 
