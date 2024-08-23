@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/gem/gem_main.rpy:12
     old "Relationships"
-    new ""
+    new "Relations"
 
