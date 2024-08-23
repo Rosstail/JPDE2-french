@@ -4,181 +4,181 @@ translate french strings:
 
     # game/battle/battle.rpy:2135
     old "[player_hp_damage_visual]"
-    new ""
+    new "[player_hp_damage_visual]"
 
     # game/battle/battle.rpy:2138
     old "[player_mp_damage_visual]"
-    new ""
+    new "[player_mp_damage_visual]"
 
     # game/battle/battle.rpy:2141
     old "[player_hp_damage_visual_2]"
-    new ""
+    new "[player_hp_damage_visual_2]"
 
     # game/battle/battle.rpy:2144
     old "[player_mp_damage_visual_2]"
-    new ""
+    new "[player_mp_damage_visual_2]"
 
     # game/battle/battle.rpy:2147
     old "[player_hp_damage_visual_3]"
-    new ""
+    new "[player_hp_damage_visual_3]"
 
     # game/battle/battle.rpy:2150
     old "[player_mp_damage_visual_3]"
-    new ""
+    new "[player_mp_damage_visual_3]"
 
     # game/battle/battle.rpy:2153
     old "[player_hp_heal_visual]"
-    new ""
+    new "[player_hp_heal_visual]"
 
     # game/battle/battle.rpy:2156
     old "[player_mp_heal_visual]"
-    new ""
+    new "[player_mp_heal_visual]"
 
     # game/battle/battle.rpy:2159
     old "[enemy_hp_damage_visual]"
-    new ""
+    new "[enemy_hp_damage_visual]"
 
     # game/battle/battle.rpy:2162
     old "[enemy_mp_damage_visual]"
-    new ""
+    new "[enemy_mp_damage_visual]"
 
     # game/battle/battle.rpy:2165
     old "[enemy_hp_damage_visual_2]"
-    new ""
+    new "[enemy_hp_damage_visual_2]"
 
     # game/battle/battle.rpy:2168
     old "[enemy_mp_damage_visual_2]"
-    new ""
+    new "[enemy_mp_damage_visual_2]"
 
     # game/battle/battle.rpy:2171
     old "[enemy_hp_damage_visual_3]"
-    new ""
+    new "[enemy_hp_damage_visual_3]"
 
     # game/battle/battle.rpy:2174
     old "[enemy_mp_damage_visual_3]"
-    new ""
+    new "[enemy_mp_damage_visual_3]"
 
     # game/battle/battle.rpy:2177
     old "[enemy_hp_heal_visual]"
-    new ""
+    new "[enemy_hp_heal_visual]"
 
     # game/battle/battle.rpy:2180
     old "[enemy_mp_heal_visual]"
-    new ""
+    new "[enemy_mp_heal_visual]"
 
     # game/battle/battle.rpy:2269
     old "RE"
-    new ""
+    new "RE"
 
     # game/battle/battle.rpy:2291
     old "WK"
-    new ""
+    new "WK"
 
     # game/battle/battle.rpy:2313
     old "NU"
-    new ""
+    new "NU"
 
     # game/battle/battle.rpy:2335
     old "RF"
-    new ""
+    new "RF"
 
     # game/battle/battle.rpy:2371
     old "[hand1.hp_dmg]"
-    new ""
+    new "[hand1.hp_dmg]"
 
     # game/battle/battle.rpy:2372
     old "[hand1.mp_dmg]"
-    new ""
+    new "[hand1.mp_dmg]"
 
     # game/battle/battle.rpy:2374
     old "[hand1.mp_cost]"
-    new ""
+    new "[hand1.mp_cost]"
 
     # game/battle/battle.rpy:2376
     old "[hand1.hp_cost]"
-    new ""
+    new "[hand1.hp_cost]"
 
     # game/battle/battle.rpy:2402
     old "[hand2.hp_dmg]"
-    new ""
+    new "[hand2.hp_dmg]"
 
     # game/battle/battle.rpy:2403
     old "[hand2.mp_dmg]"
-    new ""
+    new "[hand2.mp_dmg]"
 
     # game/battle/battle.rpy:2405
     old "[hand2.mp_cost]"
-    new ""
+    new "[hand2.mp_cost]"
 
     # game/battle/battle.rpy:2407
     old "[hand2.hp_cost]"
-    new ""
+    new "[hand2.hp_cost]"
 
     # game/battle/battle.rpy:2433
     old "[hand3.hp_dmg]"
-    new ""
+    new "[hand3.hp_dmg]"
 
     # game/battle/battle.rpy:2434
     old "[hand3.mp_dmg]"
-    new ""
+    new "[hand3.mp_dmg]"
 
     # game/battle/battle.rpy:2436
     old "[hand3.mp_cost]"
-    new ""
+    new "[hand3.mp_cost]"
 
     # game/battle/battle.rpy:2438
     old "[hand3.hp_cost]"
-    new ""
+    new "[hand3.hp_cost]"
 
     # game/battle/battle.rpy:2464
     old "[hand4.hp_dmg]"
-    new ""
+    new "[hand4.hp_dmg]"
 
     # game/battle/battle.rpy:2465
     old "[hand4.mp_dmg]"
-    new ""
+    new "[hand4.mp_dmg]"
 
     # game/battle/battle.rpy:2467
     old "[hand4.mp_cost]"
-    new ""
+    new "[hand4.mp_cost]"
 
     # game/battle/battle.rpy:2469
     old "[hand4.hp_cost]"
-    new ""
+    new "[hand4.hp_cost]"
 
     # game/battle/battle.rpy:2495
     old "[hand5.hp_dmg]"
-    new ""
+    new "[hand5.hp_dmg]"
 
     # game/battle/battle.rpy:2496
     old "[hand5.mp_dmg]"
-    new ""
+    new "[hand5.mp_dmg]"
 
     # game/battle/battle.rpy:2498
     old "[hand5.mp_cost]"
-    new ""
+    new "[hand5.mp_cost]"
 
     # game/battle/battle.rpy:2500
     old "[hand5.hp_cost]"
-    new ""
+    new "[hand5.hp_cost]"
 
     # game/battle/battle.rpy:2522
     old "Action"
-    new ""
+    new "Action"
 
     # game/battle/battle.rpy:2529
     old "Absorb"
-    new ""
+    new "Absorber"
 
     # game/battle/battle.rpy:2577
     old "[j.turns_left]"
-    new ""
+    new "[j.turns_left]"
 
     # game/battle/battle.rpy:2672
     old "RS"
-    new ""
+    new "RS"
 
     # game/battle/battle.rpy:2745
     old "[tooltip_textual]"
-    new ""
+    new "[tooltip_textual]"
 
