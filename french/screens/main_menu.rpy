@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/main_menu.rpy:25
     old "Start Game"
-    new "Lancer Jeu"
+    new "Lancer le Jeu"
 
