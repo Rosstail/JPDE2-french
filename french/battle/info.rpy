@@ -44,7 +44,7 @@ translate french strings:
 
     # game/battle/info.rpy:81
     old "Reflect"
-    new "Refléte"
+    new "Reflète"
 
     # game/battle/info.rpy:85
     old "[player.reflect]"
