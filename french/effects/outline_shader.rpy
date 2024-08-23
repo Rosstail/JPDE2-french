@@ -4,7 +4,7 @@
 translate french outline_test_1296b88d:
 
     # "Start."
-    "Commencer."
+    "Début."
 
 # game/effects/outline_shader.rpy:32
 translate french outline_test_eeb88389:
