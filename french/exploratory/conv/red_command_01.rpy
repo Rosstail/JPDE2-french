@@ -40,7 +40,7 @@ translate french dialogue_Magenta_f683c7f2:
 translate french dialogue_Magenta_14cfb66c:
 
     # ma_ma "Granted, I don't know if he offered me and Mint the posts because of our skills or because he found it amusing..."
-    ma_ma "Je te l'accorde, je ne sais pas s'il a offert à Mint et moi-même des postes pour nos compétences ou parce qu'il trouvait ça amusant..."
+    ma_ma "Je te l'accorde, je ne sais pas s'il a offert les postes à Mint et moi-même pour nos compétences ou parce qu'il trouvait ça amusant..."
 
 # game/exploratory/conv/red_command_01.rpy:45
 translate french dialogue_Magenta_596e13b8:
