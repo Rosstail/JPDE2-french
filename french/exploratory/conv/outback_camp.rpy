@@ -4,139 +4,139 @@
 translate french outback_talk_jack_4a6660e2:
 
     # j nulla "Nice timing with that intervention, back there.{w=0.3} Now we have a chance."
-    j nulla ""
+    j nulla "Joli timing avec cette intervention, là-bas."
 
 # game/exploratory/conv/outback_camp.rpy:7
 translate french outback_talk_jack_4b55eec9:
 
     # d smile "It was my pleasure...{w=0.5} I had a feeling."
-    d smile ""
+    d smile "C'était un plaisir...{w=0.5} J'ai eu un bon préssentiment."
 
 # game/exploratory/conv/outback_camp.rpy:9
 translate french outback_talk_jack_df59f517:
 
     # j nulla "Yeah, she feels like a person who thinks highly of those who eventually push back..."
-    j nulla ""
+    j nulla "Ouais, elle se sent comme une personne qui a une haute opinion de ceux qui finissent par réagir..."
 
 # game/exploratory/conv/outback_camp.rpy:11
 translate french outback_talk_jack_e9c36ac6:
 
     # j nulla "Makes me wonder how the apprenticeship process went.{w=0.3} Think she gave Ruby a test, too?"
-    j nulla ""
+    j nulla "Ça me fait me demander comment le processus d'apprentissage est allé.{w=0.3} Tu penses qu'elle a fait passé un test à Ruby, aussi ?"
 
 # game/exploratory/conv/outback_camp.rpy:12
 translate french outback_talk_jack_382ff595:
 
     # d neutral "Wouldn't surprise me..."
-    d neutral ""
+    d neutral "Ça ne me surprendrai pas"
 
 # game/exploratory/conv/outback_camp.rpy:13
 translate french outback_talk_jack_33ace260:
 
     # d smile "But I think that Ruby just wore down her resistance with time."
-    d smile ""
+    d smile "Mais je pense que Ruby a juste baissé ça résistance avec le temps."
 
 # game/exploratory/conv/outback_camp.rpy:15
 translate french outback_talk_jack_5a4ecf97:
 
     # j nulla "Heh...{w=0.5} Sounds like her, alright.{w=0.3} I hope she's been well."
-    j nulla ""
+    j nulla "Eh...{w=0.5}Ça lui ressemble bien, d'accord.{w=0.3} J'espère qu'elle va bien."
 
 # game/exploratory/conv/outback_camp.rpy:24
 translate french outback_talk_jack_8dba4e6a:
 
     # j nulla "Yet another fight with a Gargantuan Grimm with way less people that I'm comfortable having..."
-    j nulla ""
+    j nulla "Encore un autre combat avec un Grimm Gargantuesque avec bien moins de monde avec qui je suis à l'aise..."
 
 # game/exploratory/conv/outback_camp.rpy:25
 translate french outback_talk_jack_650213ea:
 
     # d neutral "Maybe so...{w=0.5} But at least the quality has increased since Barito and Vodrunum."
-    d neutral ""
+    d neutral "Peut-être bien...{w=0.5} Mais au moins la qualité a augmenté depuis Barito et Vodrunum."
 
 # game/exploratory/conv/outback_camp.rpy:27
 translate french outback_talk_jack_ae2c5c38:
 
     # j nulla "I suppose...{w=0.5} Also, this time it's pretty straightforward search and destroy.{w=0.3} No one to rescue."
-    j nulla ""
+    j nulla "Je suppose...{w=0.5} De plus, cette fois c'est une recherche et destruction assez simple.{w=0.3} Personne à sauver."
 
 # game/exploratory/conv/outback_camp.rpy:28
 translate french outback_talk_jack_7f389db1:
 
     # d smile "Yup...{w=0.5} I hope {b}May{/b} is doing well, whatever she's doing."
-    d smile ""
+    d smile "Ouaip...{w=0.5} J'espère que {b}May{/b} s'en sort bien, qu'importe ce qu'elle fait."
 
 # game/exploratory/conv/outback_camp.rpy:39
 translate french outback_talk_penny_c7ccda52:
 
     # p nulla "Ruby has gotten so much stronger...!{w=0.3} I could feel it!"
-    p nulla ""
+    p nulla "Ruby est devenue tellement forte... !{w=0.3} Je pourrai le sentir !"
 
 # game/exploratory/conv/outback_camp.rpy:41
 translate french outback_talk_penny_35adebd1:
 
     # p nulla "Her Aura capacity, speed, agility, control...{w=0.5} She's definitely our equal."
-    p nulla ""
+    p nulla "Sa capacité d'Aura, vitesse, agilité, contrôle...{w=0.5} Elle est définitivement notre égale."
 
 # game/exploratory/conv/outback_camp.rpy:42
 translate french outback_talk_penny_a1a25b19:
 
     # d surprise "You could get all of that from a game of tag?"
-    d surprise ""
+    d surprise "Tu pourrais avoir tout avec une partie de touche-touche ?" # en jouant à chat / une partie de chat-trappe...
 
 # game/exploratory/conv/outback_camp.rpy:44
 translate french outback_talk_penny_48079a13:
 
     # p nulla "Affirmative.{w=0.3} And I think there's more that I haven't managed to fully detect yet..."
-    p nulla ""
+    p nulla "Affirmatif.{w=0.3} Et je pense qu'il y a plus que je n'ai pas encore réussi à entièrement détécter..."
 
 # game/exploratory/conv/outback_camp.rpy:47
 translate french outback_talk_penny_8469af10:
 
     # p nulla "Also, uhm...{w=0.5} I'm sorry if that bothered you, [p_n]."
-    p nulla ""
+    p nulla "Aussi, hmm...{w=0.5} Je suis désolée si ça t'ennuie, [p_n]."
 
 # game/exploratory/conv/outback_camp.rpy:48
 translate french outback_talk_penny_7711c2ac:
 
     # d surprise "Oh, you mean the fact that you could...{w=0.5} Touch her?"
-    d surprise ""
+    d surprise "Oh, tu veux dire le fait que tu pourrais...{w=0.5} L'atteindre ?" # Emotionnellement mais j'ai pas vraiment d'autre idée littérale
 
 # game/exploratory/conv/outback_camp.rpy:49
 translate french outback_talk_penny_e263a954:
 
     # p nulla "Yeah..."
-    p nulla ""
+    p nulla "Ouais..."
 
 # game/exploratory/conv/outback_camp.rpy:50
 translate french outback_talk_penny_b0426948:
 
     # d smile "I wouldn't exactly call it a bother...{w=0.5} The more people you can get physical affection from the better."
-    d smile ""
+    d smile "Je n'appellerai pas exactement ça ennuyant...{w=0.5} Plus il y a de personnes avec qui tu peux obtenir de l'attention physique mieux c'est. "
 
 # game/exploratory/conv/outback_camp.rpy:51
 translate french outback_talk_penny_cfb122d7:
 
     # d neutral blush "I guess I'm just a little jealous.{w=0.5} I don't blame you, of course, it's just..."
-    d neutral blush ""
+    d neutral blush "J'imagine que je suis juste un petit peu jaloux.{w=0.5} Je ne te blâme pas, bien sûr, c'est juste..."
 
 # game/exploratory/conv/outback_camp.rpy:52
 translate french outback_talk_penny_04c7262f:
 
     # p nulla "It's hard having a loved one right in front of you and not being able to be close to them."
-    p nulla ""
+    p nulla "C'est dur d'avoir un être cher en face de toi et ne pas être capable d'être proche d'eux."
 
 # game/exploratory/conv/outback_camp.rpy:54
 translate french outback_talk_penny_6c506029:
 
     # d smile blush "Yeah...{w=0.5} We both have physical touch as a love language, after all."
-    d smile blush ""
+    d smile blush "Ouais...{w=0.5} On a tous les deux le contact physique comme langage d'amour."
 
 # game/exploratory/conv/outback_camp.rpy:64
 translate french outback_talk_penny_ea07ff4e:
 
     # d surprise "Are you alright, Penny?"
-    d surprise ""
+    d surprise "Tu vas bien, Penny ?"
 
 # game/exploratory/conv/outback_camp.rpy:65
 translate french outback_talk_penny_dcbf5155:
