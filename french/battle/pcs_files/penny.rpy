@@ -32,7 +32,7 @@ translate french strings:
 
     # game/battle/pcs_files/penny.rpy:13
     old "Penny's laser barrier has enough power to stop the attack of a Primordial Grimm. It handles small ones for far longer.\nGrants Status {b}WARD{/b}."
-    new "La barrière laser de Penny a suffisamment de puissance pour arrêter l'attaque d'un Primordial Grimm. Il gère les petits plus longtemps.\nDonne le Statut {b}PRÉMUNIE{/b}."
+    new "La barrière laser de Penny a suffisamment de puissance pour arrêter l'attaque d'un Primordial Grimm. Il gère les petits plus longtemps.\nDonne le Statut {b}PRÉMUNI{/b}."
 
     # game/battle/pcs_files/penny.rpy:41
     old "[ca_pny_001.title]"
