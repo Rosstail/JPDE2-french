@@ -82,7 +82,7 @@ translate french outback_talk_04_01d1643f:
 translate french outback_talk_04_296a786c:
 
     # j nulla "I was thinking about something you said earlier...{w=0.3} How you could tell the mines are gunpowder based because of the smell.{w=0.3} How do you know what gunpowder smells like?"
-    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Comment peux-tu dire que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment connais-tu l'odeur de la poudre à canon ?"
+    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Tu sais que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment connais-tu l'odeur de la poudre à canon ?"
 
 # game/maps/outback_02.rpy:348
 translate french outback_talk_04_e30210d6:
@@ -292,7 +292,7 @@ translate french outback_talk_06_02fd43a6:
 translate french outback_talk_06_eb4f7bd4:
 
     # p nulla "As the Red Shark will depart before we're able to get back, we will need to stay overnight somewhere.{w=0.3} Then we will need to book passage on a ship to the Vacuovalesian continent...{w=0.5} I'm not sure our current funds cover it."
-    p nulla "Comme le Red Shark doit partir avant qu'on ne soit apte à rentrer, on aura besoin de passer la nuit quelque part.{w=0.3} Ensuite on devra réserver un passage en bateau vers le continent Vacuo-valesien...{w=0.5} Je ne suis pas sure que nos fonds puissent couvrir ceci."
+    p nulla "Comme le Red Shark doit partir avant qu'on ne soit apte à rentrer, on aura besoin de passer la nuit quelque part.{w=0.3} Ensuite on devra réserver un passage en bateau vers le continent Vacuo-valésien...{w=0.5} Je ne suis pas sure que nos fonds puissent couvrir ceci."
 
 # game/maps/outback_02.rpy:453
 translate french outback_talk_06_dd7b4451:

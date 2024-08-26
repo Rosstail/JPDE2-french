@@ -82,7 +82,7 @@ translate french outback_talk_02_01d1643f:
 translate french outback_talk_02_296a786c:
 
     # j nulla "I was thinking about something you said earlier...{w=0.3} How you could tell the mines are gunpowder based because of the smell.{w=0.3} How do you know what gunpowder smells like?"
-    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Comment peux-tu dire que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment connais-tu l'odeur de la poudre à canon ?"
+    j nulla "Je pensais à quelque chose que tu as dis plus tôt...{w=0.3} Tu sais que les mines fonctionnent à partir de poudre à canon à partir de l'odeur.{w=0.3} Comment connais-tu l'odeur de la poudre à canon ?"
 
 # game/maps/outback_01.rpy:257
 translate french outback_talk_02_e30210d6:
