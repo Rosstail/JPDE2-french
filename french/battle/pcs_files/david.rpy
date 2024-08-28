@@ -20,7 +20,7 @@ translate french strings:
 
     # game/battle/pcs_files/david.rpy:12
     old "\"Those who do not care about life are already dead. And a corpse can't win anything.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Ceux qui se fichent de la vie sont déjà morts. Et un cadavre ne peux rien gagner.\"\nRestaure quelques HP. {b}Coûte -{/b} 15 MP"
+    new "\"Ceux qui se fichent de la vie sont déjà morts. Et un cadavre ne peux rien gagner.\"\nRestaure quelques HP. {b}Coûte -{/b} 15 PM"
 
     # game/battle/pcs_files/david.rpy:14
     old "Rocket Punch"
