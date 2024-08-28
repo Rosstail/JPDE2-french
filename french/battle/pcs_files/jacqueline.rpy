@@ -16,7 +16,7 @@ translate french strings:
 
     # game/battle/pcs_files/jacqueline.rpy:9
     old "\"I can't stop you from being a Hunter, Jacqueline... So promise me you'll grow strong. Stronger than anyone.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Je ne peux pas t'empêcher d'être une Chasseuse, Jacqueline... Alors promets-moi que tu deviendras forte. Plus forte que quiconque.\"\nRestore quelques HP. {b}Coûte -{/b} 15 MP"
+    new "\"Je ne peux pas t'empêcher d'être une chasseuse, Jacqueline... Alors promets-moi que tu deviendras forte. Plus forte que quiconque.\"\nRestaure quelques PV. {b}Coût -{/b} 15 PM"
 
     # game/battle/pcs_files/jacqueline.rpy:11
     old "Cold Snap"
