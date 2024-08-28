@@ -4,9 +4,9 @@ translate french strings:
 
     # game/screens/scroll/inventory.rpy:36
     old "[inv_desc]"
-    new ""
+    new "[inv_desc]"
 
     # game/screens/scroll/inventory.rpy:59
     old "[i.name]"
-    new ""
+    new "[i.name]"
 
