@@ -16,7 +16,7 @@ translate french strings:
 
     # game/battle/pcs_files/penny.rpy:9
     old "\"Yours is an unique existence, Penny. Which means there's no predicting what life will bring... But we'll be there for you. Always.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Ton existence est unique, Penny. Ce qui signifie qu'il est impossible de prédire ce que la vie te réserve... Mais nous serons là pour toi. Toujours.\"\nRestore quelques HP. {b}Coûte -{/b} 15 MP"
+    new "\"Ton existence est unique, Penny. Ce qui signifie qu'il est impossible de prédire ce que la vie te réserve... Mais nous serons là pour toi. Toujours.\"\nRestaure quelques PV. {b}Coût -{/b} 15 PM"
 
     # game/battle/pcs_files/penny.rpy:11
     old "Beam Pattern A"
@@ -24,7 +24,7 @@ translate french strings:
 
     # game/battle/pcs_files/penny.rpy:11
     old "Penny's Semblance allows her to break Grimm down to their basic components. While not willing to go as far as Gemma, a laser is fine too."
-    new "La Semblance de Penny lui permet de décomposer les Grimms en leurs composants de base. Même si elle ne veux pas aller aussi loin que Gemma, un laser convient."
+    new "La Semblance de Penny lui permet de réduire les Grimms à leurs composants de base. Même si elle ne veux pas aller aussi loin que Gemma, un laser convient."
 
     # game/battle/pcs_files/penny.rpy:13
     old "Laser Barrier"
@@ -32,7 +32,7 @@ translate french strings:
 
     # game/battle/pcs_files/penny.rpy:13
     old "Penny's laser barrier has enough power to stop the attack of a Primordial Grimm. It handles small ones for far longer.\nGrants Status {b}WARD{/b}."
-    new "La barrière laser de Penny a suffisamment de puissance pour arrêter l'attaque d'un Primordial Grimm. Il gère les petits plus longtemps.\nDonne le Statut {b}PRÉMUNI{/b}."
+    new "La barrière laser de Penny a suffisamment de puissance pour arrêter l'attaque d'un Grimm Primordial. Il gère les petits plus longtemps.\nDonne le Statut {b}PRÉMUNI{/b}."
 
     # game/battle/pcs_files/penny.rpy:41
     old "[ca_pny_001.title]"
