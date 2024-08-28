@@ -22,7 +22,7 @@ translate french maria_outback_cliffs_ef991da1:
 translate french maria_outback_cliffs_f7429eeb:
 
     # m nulla "Do you, now...?"
-    m nulla "Et toi, maintenant... ?"
+    m nulla "En es-tu sûre, en ce moment... ?"
 
 # game/maps/conv/maria_convs.rpy:28
 translate french maria_outback_cliffs_47c9db88:
@@ -40,13 +40,13 @@ translate french maria_outback_cliffs_6fdf947e:
 translate french maria_outback_cliffs_ba0a080c:
 
     # m nulla "Just what you've observed will do...{w=0.5} I wanted to ask what's her relationship with her family."
-    m nulla "Juste ce que tu as observé fera l'affaire...{w=0.5} Je voulais demander qu'elle est sa relation avec sa famille."
+    m nulla "Juste ce que tu as observé fera l'affaire...{w=0.5} Je voulais demander comment est sa relation avec sa famille."
 
 # game/maps/conv/maria_convs.rpy:32
 translate french maria_outback_cliffs_6478ff61:
 
     # m nulla "Even before her Scroll broke, she didn't exactly seek them out that much.{w=0.3} So I was wondering if there was any bad blood between them...?"
-    m nulla "Avant même que son Scroll ne casse, elle ne les recherchait pas vraiment beaucoup.{w=0.3} Donc je me demandais s'il n'y avait pas une mésentente entre eux... ?"
+    m nulla "Avant même que son Scroll ne se casse, elle ne les recherchait pas tant que ça.{w=0.3} Donc je me demandais s'il n'y avait pas une mésentente entre eux... ?"
 
 # game/maps/conv/maria_convs.rpy:34
 translate french maria_outback_cliffs_c24b1d5a:
@@ -70,7 +70,7 @@ translate french maria_outback_cliffs_aecf192d:
 translate french maria_outback_cliffs_6595612d:
 
     # d frown "I wouldn't call it bad blood but, even before the Fall of Beacon...{w=0.5} There were some things that they all needed to work through."
-    d frown "Je n'appellerai pas ça une mésentente mais, même avant la Chute de Beacon...{w=0.5} Il y avait certaines choses qur lesquelles ils devaient tous travailler."
+    d frown "Je n'appellerai pas ça une mésentente mais, même avant la Chute de Beacon...{w=0.5} Il y avait certaines choses sur lesquelles ils devaient tous travailler."
 
 # game/maps/conv/maria_convs.rpy:40
 translate french maria_outback_cliffs_dc827013:
@@ -82,13 +82,13 @@ translate french maria_outback_cliffs_dc827013:
 translate french maria_outback_cliffs_e8cd3245:
 
     # m nulla "You think coming to Peak will give her those back?"
-    m nulla "Tu pense que venir à Peak les lui rendra ?"
+    m nulla "Tu penses que venir à Peak les lui rendrait ?"
 
 # game/maps/conv/maria_convs.rpy:42
 translate french maria_outback_cliffs_989cf7f9:
 
     # d surprise "Hmm...{w=0.5} I'd say so, yes.{w=0.3} On top of being able to grab a new Scroll, she'll be much closer physically too."
-    d surprise "Hmm...{w=0.5} Je dirai que oui.{w=0.3} En plus d'être capable d'obtenir un nouveau Scroll, elle sera aussi bien plus proche physiquement."
+    d surprise "Hmm...{w=0.5} Je dirai que oui.{w=0.3} En plus d'être capable de récupérer un nouveau Scroll, elle serait aussi bien plus proche physiquement."
 
 # game/maps/conv/maria_convs.rpy:46
 translate french maria_outback_cliffs_499cc836:

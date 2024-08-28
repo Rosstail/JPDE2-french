@@ -16,7 +16,7 @@ translate french evelyn_outback_fields_443e059a:
 translate french evelyn_outback_fields_8db2f802:
 
     # e nulla "It's a completely alien environment for a poor mountain bunny like me...{w=0.5} Even while doing Orphan work for Ozpin, I never left the Valesian half of the continent."
-    e nulla "C'est un environnement complètement étranger pour une pauvre lapine des montagnes comme moi...{w=0.5} Même en faisant du travail d'Orphelin pour Ozpin, je n'ai jamais quitté la moitié Valésienne du continent."
+    e nulla "C'est un environnement complètement étranger pour une pauvre lapine des montagnes comme moi...{w=0.5} Même en faisant de l'œuvre orpheline pour Ozpin, je n'ai jamais quitté la moitié Valésienne du continent."
 
 # game/maps/conv/evelyn_convs.rpy:21
 translate french evelyn_outback_fields_d2e573ae:
@@ -28,7 +28,7 @@ translate french evelyn_outback_fields_d2e573ae:
 translate french evelyn_outback_fields_2ce66643:
 
     # e nulla "Sure, rub your fancy suit in my face...{w=0.5} I swear I'll steal it the next time you get naked."
-    e nulla "C'est sur, frotte-moi ta combinaison de luxe au visage...{w=0.5} Je jure de la voler la prochaine fois que tu seras nu."
+    e nulla "C'Bien sûr, ramène-là, toi, avec ta combinaison de luxe...{w=0.5} Je jure que je vais te la voler la prochaine fois que tu seras nu."
 
 # game/maps/conv/evelyn_convs.rpy:35
 translate french evelyn_outback_cliffs_6754d6aa:
@@ -40,7 +40,7 @@ translate french evelyn_outback_cliffs_6754d6aa:
 translate french evelyn_outback_cliffs_34c54db8:
 
     # d smile "And what's got you into such a good mood?"
-    d smile "Et qu'est-ce qui te mets dans un si bonne humeur ?"
+    d smile "Et qu'est-ce qui te mets de si bonne humeur ?"
 
 # game/maps/conv/evelyn_convs.rpy:37
 translate french evelyn_outback_cliffs_f5c61404:
@@ -58,13 +58,13 @@ translate french evelyn_outback_cliffs_8d9c6a2f:
 translate french evelyn_outback_cliffs_71474ee2:
 
     # d surprise "Oh.{w=0.5} Are you talking about that paper you and professor Port...?"
-    d surprise "Oh.{=0.5} Est-ce que tu parle de ce papier toi et le professeur Port... ?"
+    d surprise "Oh.{=0.5} Est-ce que tu parles de ce papier que toi et le professeur Port... ?"
 
 # game/maps/conv/evelyn_convs.rpy:42
 translate french evelyn_outback_cliffs_d1d0a5f5:
 
     # e nulla "Indeed~{w=0.5} Never thought I'd get the chance for some empirical research on the field so soon."
-    e nulla "Évidemment~{w=0.5} Je n'ai jamais pensé que j'aurai la chance pour quelque recherches empiriques sur le terrain de sitôt."
+    e nulla "Effectivement~{w=0.5} Je n'aurai jamais pensé que j'aurai la chance de mener quelques recherches empiriques sur le terrain de sitôt."
 
 # game/maps/conv/evelyn_convs.rpy:44
 translate french evelyn_outback_cliffs_4e088a55:
@@ -82,7 +82,7 @@ translate french evelyn_outback_cliffs_249a1157:
 translate french evelyn_outback_cliffs_1eda7ea2:
 
     # e nulla "Huff!{w=0.3} So glad we're almost done trekking around this place!{w=0.3} The air is {i}not{/i} good for the fur on my ears!"
-    e nulla "Pfiou !{w=0.3} Ravie d'avoir qu'on ait presque fini le tour de cet endroit !{w=0.3} L'air {i}n'est pas{/i} bonne pour la fourrure de mes oreilles !"
+    e nulla "Pfiou !{w=0.3} Ravie qu'on ait presque fini le tour de cet endroit !{w=0.3} L'air {i}n'est pas{/i} bonne pour la fourrure de mes oreilles !"
 
 # game/maps/conv/evelyn_convs.rpy:50
 translate french evelyn_outback_cliffs_62fda1d8:
@@ -100,7 +100,7 @@ translate french evelyn_outback_cliffs_40d0a027:
 translate french evelyn_outback_cliffs_ddd112f1:
 
     # e nulla "I also used to have a shampoo that was custom-made for Fauni fur but...{w=0.5} The makers were from Mistral."
-    e nulla "J'ai aussi utilisé le shampooing qui a été fait spécialement pour les Fauni mais...{w=0.5} Les créateurs vennaient de Mistral."
+    e nulla "J'ai l'habitude d'avoir un shampooing fait spécialement pour les Fauni mais...{w=0.5} Les créateurs étaient de Mistral."
 
 # game/maps/conv/evelyn_convs.rpy:55
 translate french evelyn_outback_cliffs_3d0dc20e:

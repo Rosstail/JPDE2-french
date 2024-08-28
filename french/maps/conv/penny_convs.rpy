@@ -4,19 +4,19 @@
 translate french penny_outback_fields_3de953c2:
 
     # p nulla "I've never heard of Grimm being attracted to shrubbery, before..."
-    p nulla "Je n'avais jamais entendu parler de Grimm attirés par des arbustes, avant..."
+    p nulla "Je n'avais jamais entendu parler de Grimm attiré par des arbustes, avant..."
 
 # game/maps/conv/penny_convs.rpy:18
 translate french penny_outback_fields_07c83aad:
 
     # d surprise "Maybe they're older Grimm just guarding their territory?{w=0.3} The tree could be a coincidence."
-    d surprise "Peut-être que les Grimm plus anciens gardent juste leur territoire ?{w=0.3} L'arbre pourrait être une coïncidence."
+    d surprise "Peut-être que ce sont des Grimms plus anciens gardant juste leur territoire ?{w=0.3} L'arbre pourrait être une coïncidence."
 
 # game/maps/conv/penny_convs.rpy:19
 translate french penny_outback_fields_4bf9f94a:
 
     # p nulla "Maybe but the way the driver talked about it it seems to be a systemic enough occurrence...{w=0.5} Also, Grimm old enough to care about territory aren't that common."
-    p nulla "Peut-être, mais la façon dont le conducteur en a parlé semble être un événement assez systémique...{w=0.5} De plus, les Grimms assez vieux pour garder un territoire ne sont pas si communs."
+    p nulla "Peut-être, mais de la façon dont le conducteur en a parlé, cela semble être une occurence assez systémique...{w=0.5} De plus, des Grimms assez vieux pour garder un territoire ne sont pas si communs."
 
 # game/maps/conv/penny_convs.rpy:20
 translate french penny_outback_fields_e6881a52:
@@ -28,13 +28,13 @@ translate french penny_outback_fields_e6881a52:
 translate french penny_outback_fields_2ed51067:
 
     # p nulla "I hope for the people of Menagerie they're not..."
-    p nulla "J'éspère pour le peuple de Ménagerie qu'ils ne sont pas..."
+    p nulla "J'espère pour le peuple de Ménagerie qu'ils ne le sont pas..."
 
 # game/maps/conv/penny_convs.rpy:34
 translate french penny_outback_cliffs_cfcd1d29:
 
     # p nulla "The map Ruby kept of the surroundings is incredible!{w=0.3} So detailed and accessible!"
-    p nulla "La carte des environs que Ruby a gardé est incroyable !{w=0.3} Si détaillée et accessible !"
+    p nulla "La carte des environs que Ruby a gardée est incroyable !{w=0.3} Si détaillée et accessible !"
 
 # game/maps/conv/penny_convs.rpy:35
 translate french penny_outback_cliffs_7c693609:
@@ -46,19 +46,19 @@ translate french penny_outback_cliffs_7c693609:
 translate french penny_outback_cliffs_9373d3dc:
 
     # p nulla "Well, that too, but I was mainly talking about how the information is encoded with {b}tactile writing{/b}, too."
-    p nulla "Eh bien, ça aussi, mais je parlait principalement de comment l'information est codée avec de {b}l'écriture tactile{/i}, aussi."
+    p nulla "Eh bien, ça aussi, mais je parlais principalement de comment l'information est codée avec de {b}l'écriture tactile{/i}, aussi."
 
 # game/maps/conv/penny_convs.rpy:38
 translate french penny_outback_cliffs_6cc9ee30:
 
     # d surprise "Oh!{w=0.3} Of course, I'm so dumb.{w=0.3} It must be a map that Maria can read, too."
-    d surprise "Oh !{w=0.3} Évidemment, je suis si bête.{w=0.3} Ça doit être une carte que Maria peut lire, aussi."
+    d surprise "Oh !{w=0.3} Évidemment, suis-je bête.{w=0.3} Ça doit être une carte que Maria peut lire, aussi."
 
 # game/maps/conv/penny_convs.rpy:40
 translate french penny_outback_cliffs_c9f95e10:
 
     # p nulla "Indeed.{w=0.3} Also, that level of map-making and the tactile alphabet weren't in the curriculum of Beacon's first year."
-    p nulla "En effet.{w=0.3} Aussi, ce niveau de cartographie et l'alphabet tactule n'étaient pas dans le cursus en première année à Beacon."
+    p nulla "En effet.{w=0.3} Aussi, ce niveau de cartographie et l'alphabet tactile n'étaient pas dans le cursus en première année à Beacon."
 
 # game/maps/conv/penny_convs.rpy:42
 translate french penny_outback_cliffs_23f04b72:
@@ -88,7 +88,7 @@ translate french penny_outback_cliffs_ce93c019:
 translate french penny_outback_cliffs_7e573736:
 
     # d smile "That we did, yes.{w=0.3} Good job, Penny."
-    d smile "Oui nous l'avons fait, oui.{w=0.3} Bon travail, Penny."
+    d smile "C'est cequ'on a fait, oui.{w=0.3} Bon travail, Penny."
 
 # game/maps/conv/penny_convs.rpy:52
 translate french penny_outback_cliffs_58759d4c:
@@ -100,7 +100,7 @@ translate french penny_outback_cliffs_58759d4c:
 translate french penny_outback_cliffs_91810169:
 
     # d smile "Still...{w=0.5} You had the most doubts about yourself, didn't you?"
-    d smile "Reste... {w=0.5} Tu as les plus gros doutes envers toi-même, n'est-ce pas ?"
+    d smile "Cependant... {w=0.5} Tu avais les plus gros doutes envers toi-même, n'est-ce pas ?"
 
 # game/maps/conv/penny_convs.rpy:55
 translate french penny_outback_cliffs_962f5025:
