@@ -16,7 +16,7 @@ translate french strings:
 
     # game/battle/pcs_files/evelyn.rpy:9
     old "\"We'll survive together. We'll have a future together. And we'll make a good home together.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Nous survivrons ensemble. Nous aurons un avenir ensemble. Et nous ferons une bonne maison ensemble.\"\nRestaure quelques HP. {b}Coûte -{/b} 15 PM" 
+    new "\"Nous survivrons ensemble. Nous aurons un avenir ensemble. Et nous ferons une bonne maison ensemble.\"\nRestaure quelques PV. {b}Coût -{/b} 15 PM" 
 
     # game/battle/pcs_files/evelyn.rpy:11
     old "Barrage"
