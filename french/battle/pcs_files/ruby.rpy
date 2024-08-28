@@ -16,7 +16,7 @@ translate french strings:
 
     # game/battle/pcs_files/ruby.rpy:10
     old "\"Your existence so far has been defined by others, Ruby... To control the Silver Eyes, that must change.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Jusqu'à présent, ton existence a été définie par d'autres, Ruby... Pour contrôler les yeux argentés, cela doit changer.\"\nRestore quelques HP. {b}Coûte -{/b} 15 MP" 
+    new "\"Jusqu'à présent, ton existence a été définie par d'autres, Ruby... Pour contrôler les yeux argentés, cela doit changer.\"\nRestaure quelques PV. {b}Coût -{/b} 15 PM" 
 
     # game/battle/pcs_files/ruby.rpy:12
     old "It's Also A Gun!"
@@ -24,7 +24,7 @@ translate french strings:
 
     # game/battle/pcs_files/ruby.rpy:12
     old "If she hadn't become a Hunter, Ruby would have been one of the most successful engineers in Remnant's history."
-    new "Si elle n'était pas devenue Chasseuse, Ruby aurait été l'une des ingénieurs les plus fructueux de l'histoire de Remnant."
+    new "Si elle n'était pas devenue chasseuse, Ruby aurait été l'une des ingénieurs les plus fructueux de l'histoire de Remnant."
 
     # game/battle/pcs_files/ruby.rpy:14
     old "Rose Storm"
