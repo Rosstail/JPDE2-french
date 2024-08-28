@@ -16,7 +16,7 @@ translate french strings:
 
     # game/battle/pcs_files/sienna_khan.rpy:10
     old "\"Where you'll lead we cannot follow. But you will always have my friendship, Sienna.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
-    new "\"Là où tu nous mènes, nous ne pouvons pas te suivre. Mais tu auras toujours mon amitié, Sienna.\"\nRestore quelques HP. {b}Coûte -{/b} 15 MP" 
+    new "\"Là où tu nous mènes, nous ne pouvons pas te suivre. Mais tu auras toujours mon amitié, Sienna.\"\nRestaure quelques PV. {b}Coût -{/b} 15 PM" 
 
     # game/battle/pcs_files/sienna_khan.rpy:12
     old "Water Whip"
@@ -24,7 +24,7 @@ translate french strings:
 
     # game/battle/pcs_files/sienna_khan.rpy:12
     old "A Water based attack which harnesses the power of the Dust Crystals in Sienna's whip.\n{b}Cost -{/b} 7 MP"
-    new "Une attaque à base d'Eau qui exploite la puissance des cristaux de Dust du fouet de Sienna.\n{b}Coûte -{/b} 7 MP"
+    new "Une attaque à base d'Eau qui exploite la puissance des cristaux de Dust du fouet de Sienna.\n{b}Coût -{/b} 7 PM"
 
     # game/battle/pcs_files/sienna_khan.rpy:14
     old "Fire Whip"
@@ -32,7 +32,7 @@ translate french strings:
 
     # game/battle/pcs_files/sienna_khan.rpy:14
     old "A Fire based attack which harnesses the power of the Dust Crystals in Sienna's whip.\n{b}Cost -{/b} 7 MP"
-    new "Une attaque à base de Feu qui exploite la puissance des cristaux de Dust du fouet de Sienna.\n{b}Coûte -{/b} 7 MP"
+    new "Une attaque à base de Feu qui exploite la puissance des cristaux de Dust du fouet de Sienna.\n{b}Coût -{/b} 7 PM"
 
     # game/battle/pcs_files/sienna_khan.rpy:42
     old "[ca_sk_001.title]"
