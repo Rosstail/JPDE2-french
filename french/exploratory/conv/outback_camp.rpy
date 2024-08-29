@@ -4,37 +4,37 @@
 translate french outback_talk_jack_4a6660e2:
 
     # j nulla "Nice timing with that intervention, back there.{w=0.3} Now we have a chance."
-    j nulla "Joli timing avec cette intervention, là-bas."
+    j nulla "Joli timing d'intervention, là-bas.{w=0.3} Maintenant on a notre chance."
 
 # game/exploratory/conv/outback_camp.rpy:7
 translate french outback_talk_jack_4b55eec9:
 
     # d smile "It was my pleasure...{w=0.5} I had a feeling."
-    d smile "C'était un plaisir...{w=0.5} J'ai eu un bon préssentiment."
+    d smile "Tout le plaisir est pour moi...{w=0.5} J'ai eu un bon pressentiment."
 
 # game/exploratory/conv/outback_camp.rpy:9
 translate french outback_talk_jack_df59f517:
 
     # j nulla "Yeah, she feels like a person who thinks highly of those who eventually push back..."
-    j nulla "Ouais, elle se sent comme une personne qui a une haute opinion de ceux qui finissent par réagir..."
+    j nulla "Ouais, elle m'a l'air d'être une personne qui estime ceux qui finissent par réagir..."
 
 # game/exploratory/conv/outback_camp.rpy:11
 translate french outback_talk_jack_e9c36ac6:
 
     # j nulla "Makes me wonder how the apprenticeship process went.{w=0.3} Think she gave Ruby a test, too?"
-    j nulla "Ça me fait me demander comment le processus d'apprentissage est allé.{w=0.3} Tu penses qu'elle a fait passé un test à Ruby, aussi ?"
+    j nulla "Ça me fait penser à comment le processus d'apprentissage s'est passé.{w=0.3} Tu penses qu'elle a fait passer un test à Ruby, aussi ?"
 
 # game/exploratory/conv/outback_camp.rpy:12
 translate french outback_talk_jack_382ff595:
 
     # d neutral "Wouldn't surprise me..."
-    d neutral "Ça ne me surprendrai pas"
+    d neutral "Ça ne me surprendrai pas..."
 
 # game/exploratory/conv/outback_camp.rpy:13
 translate french outback_talk_jack_33ace260:
 
     # d smile "But I think that Ruby just wore down her resistance with time."
-    d smile "Mais je pense que Ruby a juste baissé ça résistance avec le temps."
+    d smile "Mais je pense que Ruby l'a juste épuisé avec le temps."
 
 # game/exploratory/conv/outback_camp.rpy:15
 translate french outback_talk_jack_5a4ecf97:
@@ -46,7 +46,7 @@ translate french outback_talk_jack_5a4ecf97:
 translate french outback_talk_jack_8dba4e6a:
 
     # j nulla "Yet another fight with a Gargantuan Grimm with way less people that I'm comfortable having..."
-    j nulla "Encore un autre combat avec un Grimm Gargantuesque avec bien moins de monde avec qui je suis à l'aise..."
+    j nulla "Encore un autre combat avec un Grimm Gargantuesque avec beaucoup moins de gens que je suis à l'aise d'avoir..."
 
 # game/exploratory/conv/outback_camp.rpy:25
 translate french outback_talk_jack_650213ea:
@@ -58,7 +58,7 @@ translate french outback_talk_jack_650213ea:
 translate french outback_talk_jack_ae2c5c38:
 
     # j nulla "I suppose...{w=0.5} Also, this time it's pretty straightforward search and destroy.{w=0.3} No one to rescue."
-    j nulla "Je suppose...{w=0.5} De plus, cette fois c'est une recherche et destruction assez simple.{w=0.3} Personne à sauver."
+    j nulla "Je suppose...{w=0.5} De plus, c'est assez franchement 'traquer et abattre'.{w=0.3} Personne à sauver."
 
 # game/exploratory/conv/outback_camp.rpy:28
 translate french outback_talk_jack_7f389db1:
@@ -76,19 +76,19 @@ translate french outback_talk_penny_c7ccda52:
 translate french outback_talk_penny_35adebd1:
 
     # p nulla "Her Aura capacity, speed, agility, control...{w=0.5} She's definitely our equal."
-    p nulla "Sa capacité d'Aura, vitesse, agilité, contrôle...{w=0.5} Elle est définitivement notre égale."
+    p nulla "Sa quantité d'Aura, vitesse, agilité, contrôle...{w=0.5} Elle est définitivement notre égale."
 
 # game/exploratory/conv/outback_camp.rpy:42
 translate french outback_talk_penny_a1a25b19:
 
     # d surprise "You could get all of that from a game of tag?"
-    d surprise "Tu pourrais avoir tout avec une partie de touche-touche ?" # en jouant à chat / une partie de chat-trappe...
+    d surprise "Tu pourrais avoir tout avec une partie de trappe-trappe ?"
 
 # game/exploratory/conv/outback_camp.rpy:44
 translate french outback_talk_penny_48079a13:
 
     # p nulla "Affirmative.{w=0.3} And I think there's more that I haven't managed to fully detect yet..."
-    p nulla "Affirmatif.{w=0.3} Et je pense qu'il y a plus que je n'ai pas encore réussi à entièrement détécter..."
+    p nulla "Affirmatif.{w=0.3} Et je pense qu'il y a plus que je n'ai pas encore réussi à entièrement détecter..."
 
 # game/exploratory/conv/outback_camp.rpy:47
 translate french outback_talk_penny_8469af10:
@@ -100,7 +100,7 @@ translate french outback_talk_penny_8469af10:
 translate french outback_talk_penny_7711c2ac:
 
     # d surprise "Oh, you mean the fact that you could...{w=0.5} Touch her?"
-    d surprise "Oh, tu veux dire le fait que tu pourrais...{w=0.5} L'atteindre ?" # Emotionnellement mais j'ai pas vraiment d'autre idée littérale
+    d surprise "Oh, tu veux dire le fait que tu pourrais...{w=0.5} L'atteindre ?"
 
 # game/exploratory/conv/outback_camp.rpy:49
 translate french outback_talk_penny_e263a954:
@@ -112,7 +112,7 @@ translate french outback_talk_penny_e263a954:
 translate french outback_talk_penny_b0426948:
 
     # d smile "I wouldn't exactly call it a bother...{w=0.5} The more people you can get physical affection from the better."
-    d smile "Je n'appellerai pas exactement ça ennuyant...{w=0.5} Plus il y a de personnes avec qui tu peux obtenir de l'attention physique mieux c'est. "
+    d smile "Je n'appellerai pas exactement ça ennuyant...{w=0.5} Le plus il y a de gens dont tu peux avoir de l'affection physique, le mieux c'est."
 
 # game/exploratory/conv/outback_camp.rpy:51
 translate french outback_talk_penny_cfb122d7:
@@ -124,13 +124,13 @@ translate french outback_talk_penny_cfb122d7:
 translate french outback_talk_penny_04c7262f:
 
     # p nulla "It's hard having a loved one right in front of you and not being able to be close to them."
-    p nulla "C'est dur d'avoir un être cher en face de toi et ne pas être capable d'être proche d'eux."
+    p nulla "C'est dur d'avoir un être cher en face de toi et de ne pas être capable d'être proche d'eux."
 
 # game/exploratory/conv/outback_camp.rpy:54
 translate french outback_talk_penny_6c506029:
 
     # d smile blush "Yeah...{w=0.5} We both have physical touch as a love language, after all."
-    d smile blush "Ouais...{w=0.5} On a tous les deux le contact physique comme langage d'amour."
+    d smile blush "Ouais...{w=0.5} On a tous les deux le contact physique comme langage d'amour, après tout."
 
 # game/exploratory/conv/outback_camp.rpy:64
 translate french outback_talk_penny_ea07ff4e:
@@ -142,13 +142,13 @@ translate french outback_talk_penny_ea07ff4e:
 translate french outback_talk_penny_dcbf5155:
 
     # p nulla "I'm...{w=0.5} Fine but I'd prefer if we had more intel to go on.{w=0.3} We're walking in blind in what may very well be a trap."
-    p nulla "Je vais...{w=0.5} Bien mais j'aurai préféré qu'on ait plus d'infos avant d'y aller.{w=0.3} On marche à l'aveugle dans ce qui pourrait très bien être un piège."
+    p nulla "Je vais...{w=0.5} Bien mais j'aurais préféré qu'on ait plus d'infos avant d'y aller.{w=0.3} On marche à l'aveugle dans ce qui pourrait très bien être un piège."
 
 # game/exploratory/conv/outback_camp.rpy:67
 translate french outback_talk_penny_8bb35ac5:
 
     # p nulla "Gargantuan Grimm are a peculiar Class, since they're used to refer to rare Grimm all stronger than Alphas...{w=0.5} But that spectrum is certainly wide."
-    p nulla "Les Grimms Gargantuesques sont une classe particulière, car ils sont utilisés pour désigner des Grimm rares, tous plus forts que les Alphas...{w=0.5} Mais ce spectre est certainement large."
+    p nulla "Les Grimms Gargantuesques sont une classe particulière, car leur nom est utilisé pour désigner des Grimm rares, tous plus forts que les Alphas...{w=0.5} Mais ce spectre est certainement large."
 
 # game/exploratory/conv/outback_camp.rpy:69
 translate french outback_talk_penny_d9bd6ebe:
@@ -160,19 +160,19 @@ translate french outback_talk_penny_d9bd6ebe:
 translate french outback_talk_penny_16cd6abb:
 
     # d neutral "Yeah...{w=0.5} That's a lot of missing information, but we're still the most qualified group on the island to deal with this."
-    d neutral "Ouais...{w=0.5} C'est un tas d'informations manquantes, mais on reste le group le plus qualifié sur l'île pour gérer ça."
+    d neutral "Ouais...{w=0.5} Ça fait un tas d'informations manquantes, mais on reste le groupe le plus qualifié sur l'île pour gérer ça."
 
 # game/exploratory/conv/outback_camp.rpy:71
 translate french outback_talk_penny_c3df239b:
 
     # p nulla "I know...{w=0.5} And I know that this must be dealt with now.{w=0.3} By the time the Gargantuan manifests itself, it may have enough minions to make the situation untenable."
-    p nulla "Je sais...{w=0.5} Et je sais que ça doit être géré maintenant. Lorsque le Gargantuesque va se manifester, il pourrait avoir assez de sbires pour rendre la situation intenable."
+    p nulla "Je sais...{w=0.5} Et je sais que ça doit être réglé maintenant.{w=0.3} Lorsque le Gargantuesque va se manifester, il pourrait avoir assez de sbires pour rendre la situation intenable."
 
 # game/exploratory/conv/outback_camp.rpy:73
 translate french outback_talk_penny_8fc8d191:
 
     # p nulla "So we go in...{w=0.5} And I'll trust in us, in Maria and Ruby."
-    p nulla "Donc on y va...{w=0.5} Et je crois en nous, en Maria et en Ruby."
+    p nulla "Donc on y va...{w=0.5} Et je vais croire en nous, en Maria et en Ruby."
 
 # game/exploratory/conv/outback_camp.rpy:84
 translate french outback_talk_evelyn_2e7cadb0:
@@ -184,25 +184,25 @@ translate french outback_talk_evelyn_2e7cadb0:
 translate french outback_talk_evelyn_fdd151dc:
 
     # e nulla "Nooooothing~{w=0.5} I just like to see you all confident and business like that.{w=0.3} My man."
-    e nulla "Rieeeeneeen~{w=0.5} J'aime juste te voir assez confiant et entreprenant comme ça.{w=0.3} Mon mec."
+    e nulla "Rieeeeneeen~{w=0.5} J'aime juste te voir tout confiant et entreprenant comme ça.{w=0.3} Mon mec."
 
 # game/exploratory/conv/outback_camp.rpy:87
 translate french outback_talk_evelyn_790d7eb0:
 
     # e nulla "Was a time you would've been stunned into silence just by looking at her...{w=0.5} She's a pretty attractive woman, isn't she?"
-    e nulla "Il y a un temps où tu aurais été ébahi rien qu'à la regarder... C'est une femme plutôt attrayante, n'est-ce pas ?"
+    e nulla "Il y a un temps où tu aurais été ébahi rien qu'à la regarder...{w=0.5} C'est une femme plutôt attrayante, n'est-ce pas ?"
 
 # game/exploratory/conv/outback_camp.rpy:88
 translate french outback_talk_evelyn_59981665:
 
     # d neutral "I guess.{w=0.3} She's older than miss Goodwitch, though."
-    d neutral "Je suppose.{w=0.3} Elle est plus vielle que miss Goodwitch, cependant."
+    d neutral "Je suppose.{w=0.3} Elle est plus vieille que madame Goodwitch, cependant."
 
 # game/exploratory/conv/outback_camp.rpy:90
 translate french outback_talk_evelyn_075efea4:
 
     # e nulla "Now you start caring about age difference?"
-    e nulla "Maintenant tu commences te soucier de la différence d'âge ?"
+    e nulla "Maintenant tu commences à te soucier de la différence d'âge ?"
 
 # game/exploratory/conv/outback_camp.rpy:91
 translate french outback_talk_evelyn_75c30d98:
@@ -238,7 +238,7 @@ translate french outback_talk_evelyn_ea44a47b:
 translate french outback_talk_evelyn_7be0de08:
 
     # d frown blush "Honey, I am not your personal on-command erotica."
-    d frown blush "Chéri, je ne suis pas ton érotique personnelle sur commande."
+    d frown blush "Chéri, je ne suis pas ton érotique personnel sur commande."
 
 # game/exploratory/conv/outback_camp.rpy:101
 translate french outback_talk_evelyn_583aa8a1:
@@ -262,25 +262,25 @@ translate french outback_talk_evelyn_74c8ffe4:
 translate french outback_talk_evelyn_3fea8a38:
 
     # e nulla "A couple.{w=0.3} While making my paper with professor Port, I've come across some interesting theories."
-    e nulla "Quelques unes.{w=0.3} Pendant que je faisais mes recherches sur le professeur Port, j'ai découvert des théories intéressantes."
+    e nulla "Quelques unes.{w=0.3} Pendant que je faisais mes recherches avec le professeur Port, j'ai découvert des théories intéressantes."
 
 # game/exploratory/conv/outback_camp.rpy:114
 translate french outback_talk_evelyn_bf480497:
 
     # e nulla "One research observed that, while the nature and abilities of a Grimm ultimately depend on the fear they're based on, {b}species that coexist n the region they will all share some characteristics{/b}."
-    e nulla "Il a été observé que, si la nature et les abilités d'un Grimm dépendent ultimement de la peur sur laquelle ils sont basés, {b}les espèces qui coéxistent dans la région vont tous partager cetaines caractéristiques.{/b}."
+    e nulla "Une étude a observé que, alors la nature et les abilités d'un Grimm dépendent finalement de la peur sur laquelle ils sont basés, {b}les espèces qui coexistent dans la région vont tous partager certaines caractéristiques.{/b}."
 
 # game/exploratory/conv/outback_camp.rpy:115
 translate french outback_talk_evelyn_12d001e6:
 
     # d surprise "Really?{w=0.3} So, we could try and guess some of the abilities of the Gargantuan from the smaller ones we encountered so far?"
-    d surprise "Vraiment ?{w=0.3} Donc, on pourrait essayer et deviner quelque unes des abilités du Gargantuesque depuis les plus petits que l'on a déjà rencontré ?"
+    d surprise "Vraiment ?{w=0.3} Donc, on pourrait essayer et deviner quelque unes des capacités du Gargantuesque à partir des plus petits que l'on a déjà rencontré ?"
 
 # game/exploratory/conv/outback_camp.rpy:117
 translate french outback_talk_evelyn_13bd73af:
 
     # e nulla "You got it.{w=0.3} For example, two out of the three species we've faced so far were quite impervious to Melee attacks, weren't they?"
-    e nulla "Tu l'as.{w=0.3} Par exemple, deux sur les trois espèces que nous avons affronté jusqu'à présent étaient plutôt insensibles aux Attaques de mêlées, n'est-ce pas ?"
+    e nulla "C'est ça.{w=0.3} Par exemple, deux sur les trois espèces que nous avons affronté jusqu'à présent étaient plutôt insensibles aux Attaques de mêlées, n'est-ce pas ?"
 
 # game/exploratory/conv/outback_camp.rpy:118
 translate french outback_talk_evelyn_a5f991fd:
@@ -292,7 +292,7 @@ translate french outback_talk_evelyn_a5f991fd:
 translate french outback_talk_evelyn_f38fef4d:
 
     # e nulla "Especially you.{w=0.3} {b}You can swap the cores of your Dust Suit on the fly{/b}, so take advantage of it."
-    e nulla "Surtout toi.{w=0.3} {b}Tu peux échanger le Cœur de ta Combinaison de Dust à la volée{/b}, alors profites-en."
+    e nulla "Surtout toi.{w=0.3} {b}Tu peux remplacer le Cœur de ta Combinaison de Dust à la volée{/b}, alors profites-en."
 
 # game/exploratory/conv/outback_camp.rpy:134
 translate french outback_talk_ruby_4c31fda4:
@@ -310,7 +310,7 @@ translate french outback_talk_ruby_02eaba33:
 translate french outback_talk_ruby_15155fb2:
 
     # d smile "Maybe a little.{w=0.3} One wouldn't think we were about to go fight a Gargantuan Grimm."
-    d smile "Peut-être un peu.{w=0.3} On ne croirait pas que nous allions affronter un Grimm Gargantuesque."
+    d smile "Peut-être un peu.{w=0.3} On ne croirait pas que l'on est sur le point d'affronter un Grimm Gargantuesque."
 
 # game/exploratory/conv/outback_camp.rpy:139
 translate french outback_talk_ruby_c1b3189f:
@@ -346,7 +346,7 @@ translate french outback_talk_maria_69dd0e01:
 translate french outback_talk_maria_912a07f5:
 
     # d surprise "Oh, that...{w=0.5} Well, for a number of reasons, I can't use it."
-    d surprise "Oh, ça...{w=0.5} Eh bien, pour plusieurs raisons, je ne peux plus l'utiliser."
+    d surprise "Oh, ça...{w=0.5} Eh bien, pour plusieurs raisons, je ne peux pas l'utiliser."
 
 # game/exploratory/conv/outback_camp.rpy:157
 translate french outback_talk_maria_c2253cc1:
@@ -364,7 +364,7 @@ translate french outback_talk_maria_cbce2c60:
 translate french outback_talk_maria_55712319:
 
     # m nulla "Hm.{w=0.3} I've seen you do things on the battlefield that wouldn't be possible with just Aura, though...{w=0.5} Is it your equipment?"
-    m nulla "Hm.{w=0.3} J'ai vu que tu fais des choses sur le champ de bataille qui ne serait pas possible avec juste de l'Aura, cependant...{w=0.5} Est-ce ton équipement ?"
+    m nulla "Hm.{w=0.3} Je t'ai vu faire des choses sur le champ de bataille qui ne serait pas possible avec juste de l'Aura, pour le coup...{w=0.5} Est-ce ton équipement ?"
 
 # game/exploratory/conv/outback_camp.rpy:160
 translate french outback_talk_maria_5e7decf2:
@@ -376,13 +376,13 @@ translate french outback_talk_maria_5e7decf2:
 translate french outback_talk_maria_09403b6f:
 
     # m nulla "I suppose it gives you a good amount of versatility...{w=0.5} Still, a shame."
-    m nulla "Je suppose que ça te donne une bonne dose de polyvalence...{w=0.5} C'est quand même dommage."
+    m nulla "Je suppose que ça te donne une bonne dose de polyvalence...{w=0.5} Ça reste dommage."
 
 # game/exploratory/conv/outback_camp.rpy:162
 translate french outback_talk_maria_eaaabf67:
 
     # d neutral "Well, I haven't seen you use your Semblance so far either...{w=0.5} If you can deal, I can."
-    d neutral "Eh bien, je ne t'ai pas vu utiliser ta Semblance jusqu'à présent...{w=0.5} Si tu peux t'en occuper, je peux."
+    d neutral "Eh bien, je ne t'ai pas vu utiliser ta Semblance jusqu'à présent non plus...{w=0.5} Si tu peux t'en occuper, je peux."
 
 # game/exploratory/conv/outback_camp.rpy:166
 translate french outback_talk_maria_9b051438:
@@ -400,7 +400,7 @@ translate french outback_talk_maria_c46c58c0:
 translate french outback_talk_maria_6d351eea:
 
     # m nulla "They may miss details that your brain doesn't."
-    m nulla "Ils peuvent rater des détails que ton cerveau ne manquerai pas."
+    m nulla "Ils pourraient rater des détails que ton cerveau ne manquerait pas."
 
 # game/exploratory/conv/outback_camp.rpy:172
 translate french outback_talk_maria_d5c7ad7e:
