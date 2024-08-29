@@ -4,17 +4,17 @@ translate french strings:
 
     # game/battle/core_files/player_cards.rpy:9
     old "[ca_pdc_001_001.title]"
-    new ""
+    new "[ca_pdc_001_001.title]"
 
     # game/battle/core_files/player_cards.rpy:10
     old "[ca_pdc_001_001.desc]"
-    new ""
+    new "[ca_pdc_001_001.desc]"
 
     # game/battle/core_files/player_cards.rpy:15
     old "{size=40}ELEMENTS"
-    new ""
+    new "{size=40}ÉLÉMENTS"
 
     # game/battle/core_files/player_cards.rpy:17
     old "[ca_pdc_001_001.element]"
-    new ""
+    new "[ca_pdc_001_001.element]"
 
