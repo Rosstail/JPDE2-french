@@ -22,7 +22,7 @@ translate french jack_outback_fields_0ae5671f:
 translate french jack_outback_fields_6f40c4ea:
 
     # d smile "You're gonna need to show us around, whenever we're able to go to Vacuo."
-    d smile "Tu auras besoin de nous faire visiter, quand nous pourrons aller à Vacuo."
+    d smile "Tu auras besoin de nous faire visiter, quand on pourra aller à Vacuo."
 
 # game/maps/conv/jack_convs.rpy:23
 translate french jack_outback_fields_89f19cbd:
