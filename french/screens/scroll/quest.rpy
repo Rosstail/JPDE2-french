@@ -16,7 +16,7 @@ translate french strings:
 
     # game/screens/scroll/quest.rpy:17
     old "- Full Graduation\n- Hunter's Licence"
-    new "- Entiérement Diplômé\n- Licence de Chasseur"
+    new "- Entièrement Diplômé\n- Licence de Chasseur"
 
     # game/screens/scroll/quest.rpy:18
     old "Mission Sienna"
@@ -72,7 +72,7 @@ translate french strings:
 
     # game/screens/scroll/quest.rpy:54
     old "Giver:"
-    new "Donnée par:"
+    new "Commanditaire:"
 
     # game/screens/scroll/quest.rpy:57
     old "Location:"
