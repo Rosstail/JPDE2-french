@@ -22,7 +22,7 @@ translate french sienna_redcliffs_prison_01_36cefdb7:
 translate french sienna_redcliffs_prison_01_997e5dc8:
 
     # d "There should be a point in the lower level where the rock is thin enough to blow up.{w=0.3} I don't know exactly where yet, but I'll be able to spot it when I see it."
-    d "Il devrait y en avoir dans les niveaux plus bas dans la roche assez fine pour faire sauter.{w=0.3} Je ne sais pas encore où exactement, mais je serai capable de le repérer quand je le verrai."
+    d "Il devrait y en avoir dans les niveaux plus bas où la roche est assez fine pour faire sauter.{w=0.3} Je ne sais pas encore où exactement, mais je serai capable de le repérer quand je le verrai."
 
 # game/maps/conv/sienna_khan.rpy:23
 translate french sienna_redcliffs_prison_01_64621fe5:
@@ -148,7 +148,7 @@ translate french sienna_redcliffs_waterway_32efd668:
 translate french sienna_redcliffs_waterway_c37de0a6:
 
     # sk nulla "If you're interested in learning more about it, I'd suggest visiting Vacuo.{w=0.3} They have the biggest collection of material on Aura."
-    sk nulla "Si tu es intéressé à en apprendre plus, je te suggère de visiter Vacuo.{w=0.3} Ils ont la plus grande collection de ressources sur l'Aura."
+    sk nulla "Si tu es intéressé pour en apprendre plus, je te suggère de visiter Vacuo.{w=0.3} Ils ont la plus grande collection de ressources sur l'Aura."
 
 # game/maps/conv/sienna_khan.rpy:147
 translate french sienna_redcliffs_waterway_69195256:
