@@ -88,7 +88,7 @@ translate french penny_outback_cliffs_ce93c019:
 translate french penny_outback_cliffs_7e573736:
 
     # d smile "That we did, yes.{w=0.3} Good job, Penny."
-    d smile "C'est cequ'on a fait, oui.{w=0.3} Bon travail, Penny."
+    d smile "C'est ce qu'on a fait, oui.{w=0.3} Bon travail, Penny."
 
 # game/maps/conv/penny_convs.rpy:52
 translate french penny_outback_cliffs_58759d4c:

@@ -4,7 +4,7 @@
 translate french ruby_outback_cliffs_6a61edd5:
 
     # ru nulla "Hey, uhm...{w=0.5} Sorry about before.{w=0.3} I guess my social graces have gotten worse over the years."
-    ru nulla "Hey, hmm...{w=0.5} Désolée pour avant.{w=0.3} J'imagine que mes rapports sociaux ont empirées avec les années."
+    ru nulla "Hey, hmm...{w=0.5} Désolée pour avant.{w=0.3} J'imagine que mes rapports sociaux ont empiré avec les années."
 
 # game/maps/conv/ruby_convs.rpy:19
 translate french ruby_outback_cliffs_5810723d:
@@ -52,7 +52,7 @@ translate french ruby_outback_cliffs_f90d9f71:
 translate french ruby_outback_cliffs_15553b79:
 
     # ru nulla "Anyway, I wanted to ask if Evelyn still does tailoring?"
-    ru nulla "De toute façon, je voulais demander si Evelyn continue la couture ?"
+    ru nulla "Peu importe, je voulais demander si Evelyn continue la couture ?"
 
 # game/maps/conv/ruby_convs.rpy:36
 translate french ruby_outback_cliffs_f7247dcf:
