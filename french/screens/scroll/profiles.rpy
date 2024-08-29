@@ -12,7 +12,7 @@ translate french strings:
 
     # game/screens/scroll/profiles.rpy:16
     old "I've failed the Fang... I've failed everyone."
-    new "J'ai laissé tomber le Fang... Je les ai tous laisser tomber."
+    new "J'ai laissé tomber le Fang... Je les ai tous laissés tomber."
 
     # game/screens/scroll/profiles.rpy:17
     old "Jacqueline Belinda Ivory"
@@ -48,5 +48,5 @@ translate french strings:
 
     # game/screens/scroll/profiles.rpy:93
     old "Profile"
-    new "Profile"
+    new "Profil"
 
