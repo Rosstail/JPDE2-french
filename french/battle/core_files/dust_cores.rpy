@@ -212,7 +212,7 @@ translate french strings:
 
     # game/battle/core_files/dust_cores.rpy:734
     old "Core Growth Points - [core_growth_points]"
-    new "Points de Croissance du Core - [core_growth_points]"
+    new "Points de Croissance du Cœur - [core_growth_points]"
 
     # game/battle/core_files/dust_cores.rpy:737
     old "{b}{size=60}RESET"
