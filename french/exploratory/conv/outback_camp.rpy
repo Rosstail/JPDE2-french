@@ -34,7 +34,7 @@ translate french outback_talk_jack_382ff595:
 translate french outback_talk_jack_33ace260:
 
     # d smile "But I think that Ruby just wore down her resistance with time."
-    d smile "Mais je pense que Ruby l'a juste épuisé avec le temps."
+    d smile "Mais je pense que Ruby l'a juste épuisée avec le temps."
 
 # game/exploratory/conv/outback_camp.rpy:15
 translate french outback_talk_jack_5a4ecf97:
@@ -154,7 +154,7 @@ translate french outback_talk_penny_8bb35ac5:
 translate french outback_talk_penny_d9bd6ebe:
 
     # p nulla "We could be facing an enemy that we all together could take easily, or someone even miss Goodwitch may struggle against...{w=0.5} We just don't know."
-    p nulla "On pourrait faire face à un enemi que l'on pourrait vaincre facilement tous ensemble, ou à quelqu'un contre lequel même miss Goodwitch pourrait galérer...{w=0.5} On en sait juste rien."
+    p nulla "On pourrait faire face à un enemi que l'on pourrait vaincre facilement tous ensemble, ou à quelqu'un contre lequel même madame Goodwitch pourrait galérer...{w=0.5} On en sait juste rien."
 
 # game/exploratory/conv/outback_camp.rpy:70
 translate french outback_talk_penny_16cd6abb:
@@ -292,7 +292,7 @@ translate french outback_talk_evelyn_a5f991fd:
 translate french outback_talk_evelyn_f38fef4d:
 
     # e nulla "Especially you.{w=0.3} {b}You can swap the cores of your Dust Suit on the fly{/b}, so take advantage of it."
-    e nulla "Surtout toi.{w=0.3} {b}Tu peux remplacer le Cœur de ta Combinaison de Dust à la volée{/b}, alors profites-en."
+    e nulla "Surtout toi.{w=0.3} {b}Tu peux remplacer le Cœur de ta Combinaison Dust à la volée{/b}, alors profites-en."
 
 # game/exploratory/conv/outback_camp.rpy:134
 translate french outback_talk_ruby_4c31fda4:
