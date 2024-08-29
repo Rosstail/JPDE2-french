@@ -4,7 +4,7 @@ translate french strings:
 
     # game/screens/scroll/hunt_objects.rpy:2
     old "A highly advanced cybernetic prosthetic limb, designed and built by Enrico Polendina and Aqua Skyver, in service of [p_n] di Kabegis. It possesses a number of functionalities, like an automatic mapper, a flashlight, a journal and many more, some of which are still unknown to his user."
-    new "Un membre prothétique cybernétique très avancé, conçu et construit par Enrico Polendina et Aqua Skyver, au service de [p_n] di Kabegis. Il possède un certain nombre de fonctionnalités, comme un mappeur automatique, une lampe de poche, un journal et bien d'autres encore, dont certaines sont encore inconnues de son utilisateur."
+    new "Un membre prosthétique cybernétique très avancé, conçu et construit par Enrico Polendina et Aqua Skyver, au service de [p_n] di Kabegis. Il possède un certain nombre de fonctionnalités, comme un mappeur automatique, une lampe de poche, un journal et bien d'autres encore, dont certaines sont encore inconnues de son utilisateur."
 
     # game/screens/scroll/hunt_objects.rpy:5
     old "An incredible mineral possessor of uncountable properties which depend on the variety of the rock, its purity and size, with much more that can be unlocked through man-devised processes. Dust is the foundational stone of civilization of Remnant and the only reason why humans and fauni have survived to the modern age despite the ever present threat of the Grimm."
