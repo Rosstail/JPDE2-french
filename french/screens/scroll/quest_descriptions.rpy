@@ -56,7 +56,7 @@ translate french strings:
 
     # game/screens/scroll/quest_descriptions.rpy:30
     old "Their best bet at finding out where they are is to come in contact with Summer Rose again. The breadcrumb trail to her location starts with tracking down her daughter, Ruby Rose, who left Vale immediately after the Fall of Beacon to look for a teacher..."
-    new "Leur meilleur chance de trouver où ils se trouvent est d'entrer à nouveau en contact avec Summer Rose. Le fil d'Ariane jusqu'à son emplacement commence par la recherche de sa fille, Ruby Rose, qui a quitté Vale immédiatement après la chute de Beacon pour chercher un professeur..."
+    new "Leur meilleure chance de savoir où ils se trouvent est d'entrer à nouveau en contact avec Summer Rose. Le fil d'Ariane jusqu'à son emplacement commence par la recherche de sa fille, Ruby Rose, qui a quitté Vale immédiatement après la chute de Beacon pour chercher un professeur..."
 
     # game/screens/scroll/quest_descriptions.rpy:32
     old "In Menagerie, when presented with the subject a weirdly curt Ruby Rose shared that the last time she had had contacts with Isabella Damerot and Thylla Swein, the two had been exploring a region of Vacuo."
@@ -64,7 +64,7 @@ translate french strings:
 
     # game/screens/scroll/quest_descriptions.rpy:35
     old "Maria Calavera, the Grimm Reaper. A Hunter of legendary skill, with the most recorded kills of Gargantuan Grimm in recorded history. A loner and wanderer, she has never formally joined any Hunter Organization, and rarely stays long enough in one place to be tracked down."
-    new "Maria Calavera, la Faucheuse de Grimms. Une chasseuse aux compétences légendaires, avec le plus grand nombre de Grimms Gargantuesques chassés de l'histoire. Solitaire et vagabonde, elle n'a jamais officiellement rejoint une organisation de chasseurs et reste rarement assez longtemps au même endroit pour ne pas être retrouvé."
+    new "Maria Calavera, la Faucheuse de Grimms. Une chasseuse aux compétences légendaires, avec le plus grand nombre de Grimms Gargantuesques chassés de l'histoire. Solitaire et vagabonde, elle n'a jamais officiellement rejoint une organisation de chasseurs et reste rarement assez longtemps au même endroit pour ne pas être retrouvée."
 
     # game/screens/scroll/quest_descriptions.rpy:36
     old "This is the kind of individual that Ruby Rose has chosen as her teacher, behind suggestion from her mother Summer Rose, and is the kind of individual which the Duchy of Peak would love to bring into the fold. As luck would have it, Sienna Khan possessed intelligence that places her on the Island Nation of Menagerie..."
@@ -72,7 +72,7 @@ translate french strings:
 
     # game/screens/scroll/quest_descriptions.rpy:38
     old "After a brief roadblack in getting some information from a partly distrustful menagerian populace, [p_n] and his team manage to track down Ruby and Maria to the Menagerian outback. The reunion, with much potential for emotion, turned into a Penny-led farcical moment which left the veteran quite stunned."
-    new "Après une brève épreuve pour obtenir des informations auprès d'une population ménagèrienne en partie méfiante, [p_n] et son équipe parviennent à retrouver Ruby et Maria dans l'arrière-pays ménagérien. Les retrouvailles, avec beaucoup de potentiel émotionnelle, se sont transformées en une farce menée par Penny. moment qui a laissé le vétéran assez abasourdi."
+    new "Après une brève épreuve pour obtenir des informations auprès d'une population ménagèrienne en partie méfiante, [p_n] et son équipe parviennent à retrouver Ruby et Maria dans l'arrière-pays ménagérien. Les retrouvailles, avec beaucoup de potentiel émotionnelle, se sont transformées en un moment farfelu dirigé par Penny qui a laissé le vétéran assez abasourdi."
 
     # game/screens/scroll/quest_descriptions.rpy:40
     old "Maria has revealed herself to not be as resistant to the idea of joining the local hunters as one might have thought... But, unimpressed with the team's showing so far, lays down a challenge: impress her enough with their Skill and she will give the offer serious consideration... Much to Ruby's surprise."
