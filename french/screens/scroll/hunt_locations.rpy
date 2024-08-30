@@ -4,7 +4,7 @@ translate french strings:
 
     # game/screens/scroll/hunt_locations.rpy:2
     old "The Fortress of Red Cliffs is an ancient fortification built and held by the vacuosi army at a time when Vacuo was battling for territory with their neighbor, the Kingdom of Vale. The peaks stand in a strategic location, overlooking the pass where Vacuo's cold desert slowly gives way to Vale's grasslands, an ancient and important trade route."
-    new "La Forteresse de Red Cliffs est une ancienne fortification construite et tenue par l'armée vacosienne à une époque où Vacuo se battait pour le territoire avec leur voisin, le Royaume de Vale. Les sommets se dressent à un emplacement stratégique, surplombant le col où le désert froid de Vacuo cède lentement la place aux prairies de Vale, une ancienne et importante route commerciale."
+    new "La Forteresse de Red Cliffs est une ancienne fortification construite et tenue par l'armée vacuosienne à une époque où Vacuo se battait pour le territoire avec leur voisin, le Royaume de Vale. Les sommets se dressent à un emplacement stratégique, surplombant le col où le désert froid de Vacuo cède lentement la place aux prairies de Vale, une ancienne et importante route commerciale."
 
     # game/screens/scroll/hunt_locations.rpy:3
     old "The location was eventually abandoned by Vacuo when the essential water source of the Red Cliffs suddenly dried up. In the modern age, the location was overtaken by the White Fang, as it was discovered that the particular chemical composition of the rocks of Red Cliffs cause interferences in a number of advanced instruments."
@@ -20,7 +20,7 @@ translate french strings:
 
     # game/screens/scroll/hunt_locations.rpy:10
     old "The city of Peak started as a territory donated to the would-be settlers by the once royal family of the Kingdom of Vale. A thriving mining settlement with deep veins of pyrobsidian, it one day suddenly went silent. Upon investigation, anyone stepping past the outer walls would be affected by sudden bouts of acute letargy. Subsequently, the city was sealed and declared No Man's Land."
-    new "La ville de Peak a commencé comme un territoire offert aux futurs colons par l'ancienne famille royale du Royaume de Vale. Colonie minière florissante dotée de profondes veines de pyrobsidienne, elle est devenue un jour soudainement silencieuse. Après enquête, toute personne franchissant les murs extérieurs serait affectée par des accès soudains de létarigie aiguë. Par la suite, la ville a été scellée et déclarée No Man's Land."
+    new "La ville de Peak a commencé comme un territoire offert aux futurs colons par l'ancienne famille royale du Royaume de Vale. Colonie minière florissante dotée de profondes veines de pyrobsidienne, elle est devenue un jour soudainement silencieuse. Après enquête, toute personne franchissant les murs extérieurs serait affectée par des accès soudains de létargie aiguë. Par la suite, la ville a été scellée et déclarée No Man's Land."
 
     # game/screens/scroll/hunt_locations.rpy:11
     old "A decade after the sealing of the city, its mysteries were unravelled and its field broken by a group of students from the Hunter Academy of Beacon. While the details have so far been kept secret, the incident and consequent demise of its population were attributed to the machinations of one of its residents: Beacon alumnus Weser van Goethe. The man is currently wanted, his location unknown."
