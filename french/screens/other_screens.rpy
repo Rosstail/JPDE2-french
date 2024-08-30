@@ -52,7 +52,7 @@ translate french strings:
 
     # game/screens/other_screens.rpy:190
     old "Escape"
-    new "Échap"
+    new "Echap"
 
     # game/screens/other_screens.rpy:191
     old "Accesses the game menu."
