@@ -4,9 +4,9 @@ translate french strings:
 
     # game/screens/scroll/calendar.rpy:136
     old "[year]"
-    new ""
+    new "[year]"
 
     # game/screens/scroll/calendar.rpy:142
     old "[months[current_page[0]]]"
-    new ""
+    new "[months[current_page[0]]]"
 

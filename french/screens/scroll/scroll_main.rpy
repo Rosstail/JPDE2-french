@@ -4,33 +4,33 @@ translate french strings:
 
     # game/screens/scroll/scroll_main.rpy:25
     old "Quest"
-    new ""
+    new "Quête"
 
     # game/screens/scroll/scroll_main.rpy:29
     old "Party"
-    new ""
+    new "Groupe"
 
     # game/screens/scroll/scroll_main.rpy:33
     old "Items"
-    new ""
+    new "Objets"
 
     # game/screens/scroll/scroll_main.rpy:37
     old "Hunt Log"
-    new ""
+    new "Journal de chasse"
 
     # game/screens/scroll/scroll_main.rpy:42
     old "Dust Suit"
-    new ""
+    new "Combinaison Dust"
 
     # game/screens/scroll/scroll_main.rpy:50
     old "Calendar"
-    new ""
+    new "Calendrier"
 
     # game/screens/scroll/scroll_main.rpy:54
     old "verUPDATE"
-    new ""
+    new "verMAJ"
 
     # game/screens/scroll/scroll_main.rpy:77
     old "[main_screen_tooltip]"
-    new ""
+    new "[main_screen_tooltip]"
 
