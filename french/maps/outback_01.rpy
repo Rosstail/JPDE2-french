@@ -1,4 +1,4 @@
-﻿﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/outback_01.rpy:183
 translate french outback_talk_01_ab69ebed:

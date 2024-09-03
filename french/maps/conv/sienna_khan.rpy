@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/conv/sienna_khan.rpy:16
 translate french sienna_redcliffs_prison_01_a58f706d:

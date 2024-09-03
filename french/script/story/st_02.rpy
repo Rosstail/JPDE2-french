@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/script/story/st_02.rpy:21
 translate french s02_the_waterway_5f9b2433:

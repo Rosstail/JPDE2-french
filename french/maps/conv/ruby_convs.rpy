@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/conv/ruby_convs.rpy:18
 translate french ruby_outback_cliffs_6a61edd5:

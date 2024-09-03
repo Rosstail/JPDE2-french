@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/exploratory/conv/red_command_01.rpy:11
 translate french dialogue_Mint_f10bb988:

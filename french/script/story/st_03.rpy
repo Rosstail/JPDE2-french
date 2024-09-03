@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/script/story/st_03.rpy:14
 translate french the_red_shark_7632b9ec:

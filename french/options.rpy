@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 translate french strings:
 
@@ -12,5 +12,5 @@ translate french strings:
 
     # game/options.rpy:17
     old "JPDE2: Adagio of Darkness - EP07"
-    new ""
+    new "JPDE2: Adagio of Darkness - EP07"
 

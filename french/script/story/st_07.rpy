@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-26 12:58
+# TODO: Translation updated at 2024-07-26 12:58
 
 # game/script/story/st_07.rpy:6
 translate french leaving_outback_069fa10e:
