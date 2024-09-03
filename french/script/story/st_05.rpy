@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/script/story/st_05.rpy:10
 translate french menagerie_arrival_63363df1:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/script/story/st_01.rpy:7
 translate french s01_further_down_0950c09f:

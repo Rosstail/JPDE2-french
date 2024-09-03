@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/conv/maria_convs.rpy:18
 translate french maria_outback_cliffs_5ad213c2:

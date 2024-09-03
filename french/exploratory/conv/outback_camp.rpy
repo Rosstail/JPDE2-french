@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/exploratory/conv/outback_camp.rpy:6
 translate french outback_talk_jack_4a6660e2:

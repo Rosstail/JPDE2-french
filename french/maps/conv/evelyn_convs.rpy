@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/conv/evelyn_convs.rpy:17
 translate french evelyn_outback_fields_6a5aeb55:

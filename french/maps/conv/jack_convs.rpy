@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/maps/conv/jack_convs.rpy:17
 translate french jack_outback_fields_8dc8dd0f:

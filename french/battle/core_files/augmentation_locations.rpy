@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-07-14 12:32
+# TODO: Translation updated at 2024-07-14 12:32
 
 # game/battle/core_files/augmentation_locations.rpy:11
 translate french outback_camp_augmentation_155365b2:
